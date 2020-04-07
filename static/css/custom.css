@@ -1,0 +1,8 @@
+
+.card-img-top {
+  height: 174px;
+  width: 100%;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: 50% 50%;
+}
