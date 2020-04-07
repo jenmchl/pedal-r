@@ -11,11 +11,11 @@ tags = [
     "privacy",
 ]
 images = [
-    "capaasia.jpg",
+    "capa-foz-foz.jpg",
 ]
 +++
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+Nos juntamos em Foz do Iguaçu um dia antes, já que éramos de outras cidades e até país, para organizar nossas bolsas e bicicletas: cinco fixas, uma single speed e uma gravel. Partimos um pouco tarde, atravessando a Ponte da Amizade em direção a Assunção com o sol castigando e muito vento. Esse foi o clima de toda a viagem, sem uma gota de chuva.
 <!--more-->
 ---
 

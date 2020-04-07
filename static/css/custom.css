@@ -1,4 +1,12 @@
 
+body {
+  font-weight: 100;
+}
+
+.card {
+  border: none;
+}
+
 .card-img-top {
   height: 174px;
   width: 100%;
@@ -14,4 +22,21 @@
 
 .logoheader {
   height: 40px;
+}
+
+#navbar-main-menu {
+    -webkit-transition: none;
+    transition: none;
+}
+.shadow-sm {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Anton', sans-serif;
+}
+
+a {
+  color: #000;
 }

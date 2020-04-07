@@ -34,6 +34,8 @@ author = "authors"
   author = "Hugo Authors"
   description = "Lorem ipsum dolor sit amet."
   homepageImage = "/images/homepage-image.jpg"
+  icon = "img/pedalricone.png"
+  logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
 

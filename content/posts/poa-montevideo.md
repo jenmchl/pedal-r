@@ -14,8 +14,10 @@ images = [
 ]
 +++
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
+Em novembro de 2017, depois da Hardbrakers Grandtour (São Paulo até Buzios-RJ), definitivamente precisávamos de um pouco de descanso.
+Duas semanas após a tour, decidimos conhecer o extremo sul do Brasil e o litoral paradisíaco Uruguaio.
+Ainda no centro de São Paulo, conseguimos uma carona, o motorista ...
+ <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
 lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
