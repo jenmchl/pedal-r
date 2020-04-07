@@ -3,7 +3,7 @@ authors = [
     "Douglas Coelho de Lima",
 ]
 title = "Foz - Foz"
-date = "2019-03-10"
+date = ""
 description = ""
 tags = [
     "paraguay","argentina","brasil","velodeath","hardbrakers","pedalexpress"
