@@ -14,14 +14,24 @@ theme = "hugo-theme-chunky-poster"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "viagens"
+    name = "Viagens"
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "loja"
+    name = "Loja"
+    url = "/3-loja/"
+    weight = 0
+  [[menu.main]]
+    identifier = "fotos"
+    name = "Fotos"
+    url = "/2-fotos/"
+    weight = 0
+  [[menu.main]]
+    identifier = "Contato"
+    name = "Contato"
+    url = "/4-contato/"
     weight = 0
 
 [taxonomies]
