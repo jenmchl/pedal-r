@@ -12,8 +12,7 @@ images = [
     "capa-poa-montevideo.jpg",
 ]
 +++
-<!--
+
 Em novembro de 2017, depois da Hardbrakers Grandtour (São Paulo até Buzios-RJ), definitivamente precisávamos de um pouco de descanso.
 Duas semanas após a tour, decidimos conhecer o extremo sul do Brasil e o litoral paradisíaco Uruguaio.
-Ainda no centro de São Paulo, conseguimos uma carona, o motorista ... -->
- <!--more-->
+Ainda no centro de São Paulo, conseguimos uma carona, o motorista ...
