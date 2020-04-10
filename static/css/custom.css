@@ -63,4 +63,15 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
     color: rgba(238, 14, 98, 0.82);
-}    
+}
+
+.in-development {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.in-development img {
+    margin-top: 20%;
+    width: 10%;
+}
