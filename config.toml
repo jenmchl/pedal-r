@@ -16,8 +16,8 @@ theme = "hugo-theme-chunky-poster"
   [[menu.main]]
     identifier = "viagens"
     name = "Viagens"
-    url = "/"
-    weight = 1  
+    url = "/viagens"
+    weight = 1
   [[menu.main]]
     identifier = "loja"
     name = "Loja"
