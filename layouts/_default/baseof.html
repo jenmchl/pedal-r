@@ -6,7 +6,7 @@
 <body>
     {{- if .Site.Params.inDevelopment -}}
       {{ partial "in-development.html" }}
-      <!-- {{ partial "footer-indevelopment.html" . }} -->
+      {{ partial "footer-indevelopment.html" . }}
 
     {{- else -}}
       {{ partial "header.html" . }}

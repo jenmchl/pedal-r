@@ -35,8 +35,8 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
-  description = "Lorem ipsum dolor sit amet."
+  author = "PEdAL-R"
+  description = "em construção..."
   homepageImage = "/images/homepage-image.jpg"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"

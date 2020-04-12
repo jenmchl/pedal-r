@@ -11,6 +11,7 @@ import {
     faEnvelope,
     faRss,
     faTag,
+    faWrench
 } from '@fortawesome/free-solid-svg-icons';
 import {
     faFacebook,
