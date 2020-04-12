@@ -14,7 +14,9 @@
             {{- end -}}
             {{ with .Site.Menus.main }}
                 {{ range . }}
-                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}">
+                      <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    </li>
                 {{ end }}
             {{ end }}
             </ul>

@@ -1,6 +1,5 @@
 {{ define "main" }}
 <main class="homepage container py-6">
-testes  
     <!-- Hero -->
     <!-- <div class="hero row">
         <div class="col position-relative py-lg-7{{ if not .Site.Params.homepageImage }} py-7{{ else }} pb-5{{ end }}">
@@ -18,15 +17,14 @@ testes
     </div> -->
 
     <!-- Latest article -->
-    <!-- {{- range first 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) -}}
-        {{ $page := . }}
+        {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 2 ) }}
         <div class="latest row py-lg-5">
-            <div class="col-lg-6 mb-3">
+            <div class="col-lg-12 mb-12">
                 {{- with $page.Params.images -}}
                     {{- $images := . -}}
                     {{- with $page.Site.GetPage "section" "images" -}}
                         {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
-                            {{- $image := .Fill "700x450" -}}
+                            {{- $image := .Fill "1150x400" -}}
                             <a href="{{ $page.RelPermalink }}" class="d-block">
                                 <img data-src="{{ $image.RelPermalink }}" class="img-fluid" alt="{{ $page.Title }}">
                             </a>
@@ -34,16 +32,15 @@ testes
                     {{- end -}}
                 {{- end -}}
             </div>
-            <div class="col-lg-6 mb-3">
-                <h5 class="created text-muted text-uppercase font-weight-bold">{{ $page.Date.Format "January 2, 2006" }}</h5>
-                <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+            <div class="col-lg-12 mb-12">
+                <!-- <h5 class="created text-muted text-uppercase font-weight-bold">{{ $page.Date.Format "January 2, 2006" }}</h5> -->
+                <!-- <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2> -->
 
                 <div class="content">
                     {{ $page.Summary }}
                 </div>
             </div>
         </div>
-    {{- end -}} -->
 
     <!-- Articles -->
     <!-- <div class="articles row row-cols-1 row-cols-lg-3">
