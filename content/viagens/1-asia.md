@@ -4,7 +4,7 @@ authors = [
 ]
 title = "Saigon - Bangkok"
 date = "2020-01-02"
-description = "Showcase the image gallery feature."
+description = "Uma viagem ao sudeste asiático, cruzando os paises do Vietnam, Camboja e Thailandia."
 tags = [
     "",
     "",
@@ -13,6 +13,8 @@ images = [
     "capa-asia.jpg",
 ]
 +++
+
+_Uma viagem ao sudeste asiático, cruzando Vietnam, Camboja e Thailandia._
 <!--more-->
 Esse role foi fomentado há alguns anos quando catei minha mochila e bicicleta com mais dois amigos e fizemos uma euro trip de três meses do jeito mais do it yourself possível, arranjando contato com pessoas até então desconhecidas de um dia pro outro e trocando o almoço pela janta.
 

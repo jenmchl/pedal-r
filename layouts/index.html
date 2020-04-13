@@ -24,7 +24,7 @@
                     {{- $images := . -}}
                     {{- with $page.Site.GetPage "section" "images" -}}
                         {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
-                            {{- $image := .Fill "1150x400" -}}
+                            {{- $image := .Fill "1110x350" -}}
                             <a href="{{ $page.RelPermalink }}" class="d-block">
                                 <img data-src="{{ $image.RelPermalink }}" class="img-fluid" alt="{{ $page.Title }}">
                             </a>
