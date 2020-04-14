@@ -8,11 +8,17 @@ body {
 }
 
 .card-img-top {
-  height: 174px;
+  height: 14rem;
   width: 100%;
   background-size: cover;
   background-repeat:no-repeat;
   background-position: 50% 50%;
+}
+
+@media only screen and (max-width: 600px) {
+  .card-img-top {
+    height: 10rem;
+  }
 }
 
 .card-img, .card-img-top {
@@ -49,9 +55,6 @@ body {
   color: #000;
 }
 
-.card-img-top {
-  height: 232px;
-}
 
 h4, h4 {
   font-size: 20px;
@@ -85,7 +88,7 @@ body {
   }
 }
 
-a:hover {
+.pink-link:hover {
     color: #ea5688;
 }
 
@@ -104,5 +107,51 @@ a:hover {
 }
 
 .card-text {
-  font-style: italic;
+    font-style: italic;
+}
+
+.fa-stack-2x {
+    font-size: 0em;
+}
+
+.list-inline, .list-unstyled {
+    position: absolute;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.highlight-cover {
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .highlight-cover {
+    height: 7rem;
+  }
+}
+
+.highlight-filter {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 30%;
+  text-align: center;
+}
+
+.highlight-cover h2 {
+  color: white;
+  font-size: 6.25rem;
+  line-height: 350px;
+}
+
+@media only screen and (max-width: 600px) {
+.highlight-cover h2 {
+ font-size: calc(1.35rem + 1.2vw);
+ padding-top: 20%;
+ line-height: inherit;
+}
 }

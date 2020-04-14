@@ -1,4 +1,4 @@
-<footer class="footer text-center bg-dark py-1">
+<footer class="footer text-center bg-dark py-0">
   <!-- <iframe src="https://open.spotify.com/embed/playlist/0fuoTFnmTga62x2ZMvOMf2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
 
     <div class="container">
@@ -11,8 +11,8 @@
                             {{- with .OutputFormats.Get "RSS" -}}
                                 <a href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" class="icons d-block">
                                     <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                        <i class="fa fa-circle fa-stack"></i>
+                                        <i class="fa fa-rss fa-stack fa-inverse"></i>
                                     </span>
                                 </a>
                             {{- end -}}
@@ -23,8 +23,7 @@
                     <li class="list-inline-item">
                         <a href="mailto://{{ .Site.Params.social.email }}" class="icons d-block">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-envelope fa-stack fa-inverse pink-link"></i>
                             </span>
                         </a>
                     </li>
@@ -32,10 +31,9 @@
                     {{- range $name, $path := .Site.Params.social -}}
                         {{- if and $path (not (in (slice "rss" "email") $name)) -}}
                         <li class="list-inline-item">
-                            <a href="{{ $path | safeURL }}" class="icons d-block">
+                            <a href="{{ $path | safeURL }}" class="icons d-block" target="_blank">
                                 <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
+                                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse pink-link"></i>
                                 </span>
                             </a>
                         </li>
