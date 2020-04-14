@@ -138,7 +138,7 @@ a:hover {
   height: 100%;
   width: 100%;
   background-color: black;
-  opacity: 30%;
+  opacity: 50%;
   text-align: center;
 }
 
@@ -154,4 +154,8 @@ a:hover {
  padding-top: 20%;
  line-height: inherit;
 }
+}
+
+.py-6 {
+  padding-top: 0% !important;
 }
