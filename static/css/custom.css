@@ -156,12 +156,32 @@ a:hover {
 }
 }
 
-.py-6 {
-  padding-top: 0% !important;
-}
-
 .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.info-bar {
+  padding: 10px;
+  font-family: 'orbitron';
+}
+
+.background-pink {
+  background-color: #ea5688;
+  color: white;
+}
+
+.info-bar span {
+  margin-right: 10px;
+  line-height: 18px;
+  font-size: 13px;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.article {
+  margin-bottom: 80px;
 }
