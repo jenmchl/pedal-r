@@ -40,7 +40,7 @@ body {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Anton', sans-serif;
+  font-family: 'orbitron', sans-serif;
 }
 
 a {
@@ -151,11 +151,17 @@ a:hover {
 @media only screen and (max-width: 600px) {
 .highlight-cover h2 {
  font-size: calc(1.35rem + 1.2vw);
- padding-top: 20%;
+ padding-top: 15%;
  line-height: inherit;
 }
 }
 
 .py-6 {
   padding-top: 0% !important;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
