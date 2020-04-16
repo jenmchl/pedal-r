@@ -1,7 +1,5 @@
 +++
-authors = [
-    "Jean Michel"
-    ]
+authors = ""
 title = ""
 date = ""
 description = ""

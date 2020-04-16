@@ -7,16 +7,34 @@
                     <div class="col-lg-8">
                         <h2 class="mb-3">{{ .Title }}</h2>
                           <div class="info-bar background-pink">
-                            <i class="icon-bar fas fa-cog fa-lg"></i> <span> Fixed Gear/Single Speed </span>
-                            <i class="icon-bar fas fa-users fa-lg"></i> <span> 10 </span>
-                            <i class="icon-bar far fa-calendar-alt fa-lg"></i> <span> 15 </span>
-                            <i class="icon-bar fas fa-long-arrow-alt-up"></i>
-                            <i class="icon-bar fas fa-long-arrow-alt-down"></i> <span> 1064m </span>
-                            <i class="icon-bar fas fa-road fa-lg"></i> <span> 1100km </span>
+                            {{ with .Params.Gears }}
+                              <i title="Engrenagem" class="icon-bar fas fa-cog fa-lg"></i> <span> {{ . }} </span>
+                            {{ end }}
+                            {{ with .Params.People }}
+                              <i title="Viajantes" class="icon-bar fas fa-users fa-lg"></i> <span> {{ . }}  </span>
+                            {{ end }}
+                            {{ with .Params.Duration }}
+                              <i title="Duração" class="icon-bar far fa-calendar-alt fa-lg"></i> <span> {{ . }} </span>
+                            {{ end}}
+                            {{ with .Params.Altimetry}}
+                              <i title="Altimetria" class="icon-bar fas fa-long-arrow-alt-up"></i>
+                              <i title="Altimetria" class="icon-bar fas fa-long-arrow-alt-down"></i> <span> {{ . }} </span>
+                            {{ end }}
+                            {{ with .Params.Distance }}
+                              <i title="Distância" class="icon-bar fas fa-road fa-lg"></i> <span> {{ . }} </span>
+                            {{ end }}
+                            {{ with .Params.Churchs }}
+                               <i title="Igrejas" class="fas fa-church fa-lg"></i> <span> {{ . }} </span>
+                            {{ end }}
                          </div>
                          <div class="info-bar">
-                           <i class="fas fa-camera fa-lg"></i> <span> Gianfranco Vacani/Jean Michel </span>
-                           <i class="fas fa-user-edit fa-lg"></i> <span> Douglas Coelho </span>
+                           {{ with .Params.Photographers}}
+                              <i title="Fotógrafo" class="fas fa-camera fa-lg"></i> <span> {{ . }} </span>
+                           {{ end }}
+                           {{ with .Params.Authors }}
+                              <i title="Autor" class="fas fa-user-edit fa-lg"></i> <span> {{ . }} </span>
+                           {{ end }}
+
                         </div>
                         <div class="content">
                             {{ .Content }}

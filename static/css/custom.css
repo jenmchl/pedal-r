@@ -165,6 +165,7 @@ a:hover {
 .info-bar {
   padding: 10px;
   font-family: 'orbitron';
+  letter-spacing: 1px;
 }
 
 .background-pink {
