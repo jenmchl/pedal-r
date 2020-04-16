@@ -41,7 +41,7 @@ author = "authors"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
-  inDevelopment = false
+  inDevelopment = true
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
