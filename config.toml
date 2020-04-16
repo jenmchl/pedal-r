@@ -1,5 +1,5 @@
 
-baseURL = "https://pedal-r.com"
+baseURL = "https://pedal-r.com/"
 title = "Pedal-R"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 2
@@ -37,7 +37,6 @@ author = "authors"
 [params]
   author = "PEdAL-R"
   description = "em construção..."
-  homepageImage = "/images/homepage-image.jpg"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
   share = true
