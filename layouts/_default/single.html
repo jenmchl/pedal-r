@@ -9,22 +9,24 @@
                           <div class="info-bar background-pink">
                             {{ with .Params.Gears }}
                               <i title="Engrenagem" class="icon-bar fas fa-cog fa-lg"></i> <span> {{ . }} </span>
+                            {{ end }}          {{ with .Params.Distance }}
+                              <i title="Distância" class="icon-bar fas fa-road fa-lg"></i> <span> {{ . }} </span>
                             {{ end }}
-                            {{ with .Params.People }}
-                              <i title="Viajantes" class="icon-bar fas fa-users fa-lg"></i> <span> {{ . }}  </span>
-                            {{ end }}
-                            {{ with .Params.Duration }}
-                              <i title="Duração" class="icon-bar far fa-calendar-alt fa-lg"></i> <span> {{ . }} </span>
-                            {{ end}}
                             {{ with .Params.Altimetry}}
                               <i title="Altimetria" class="icon-bar fas fa-long-arrow-alt-up"></i>
                               <i title="Altimetria" class="icon-bar fas fa-long-arrow-alt-down"></i> <span> {{ . }} </span>
                             {{ end }}
-                            {{ with .Params.Distance }}
-                              <i title="Distância" class="icon-bar fas fa-road fa-lg"></i> <span> {{ . }} </span>
+                            {{ with .Params.Duration }}
+                              <i title="Duração" class="fas fa-hourglass-half fa-lg"></i> <span> {{ . }} </span>
+                            {{ end}}
+                            {{ with .Params.People }}
+                              <i title="Viajantes" class="icon-bar fas fa-users fa-lg"></i> <span> {{ . }}  </span>
                             {{ end }}
                             {{ with .Params.Churchs }}
                                <i title="Igrejas" class="fas fa-church fa-lg"></i> <span> {{ . }} </span>
+                            {{ end }}
+                            {{ with .Params.Year }}
+                               <i title="Data" class="icon-bar far fa-calendar-alt fa-lg"></i> <span> {{ . }} </span>
                             {{ end }}
                          </div>
                          <div class="info-bar">

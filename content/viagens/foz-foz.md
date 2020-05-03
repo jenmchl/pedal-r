@@ -3,13 +3,14 @@
 +++
 authors = "Douglas Coelho"
 title = "Foz - Foz"
-date = "2020-01-02"
+date = "2019-09-02"
 description = "Paraguay, Argentina e Brasil, uma volta saindo e voltando da triplice-fronteira."
 gears = "Fixed Gear/Single Speed/Gravel"
 people = "7"
 duration = "14"
 altimetry = "9806m"
 distance = "1400km"
+year = "set 2019"
 photographers = "Gianfranco Vacani/Bruno Lourenço"
 churchs = "6"
 images = ["capa-foz-foz.jpg"]

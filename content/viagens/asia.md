@@ -1,13 +1,14 @@
 +++
 authors = "Douglas Coelho"
 title = "Saigon - Bangkok"
-date = "2020-01-03"
+date = "2019-02-02"
 description = "Uma viagem ao sudeste asiático, cruzando Vietnam, Camboja e Thailandia."
 gears = "Fixed Gear/Single Speed"
 people = "10"
 duration = "15"
 altimetry = "1064m"
 distance = "1100km"
+year = "fev 2019"
 photographers = "Gianfranco Vacani/Jean Michel"
 images = ["capa-asia.jpg"]
 

@@ -18,16 +18,16 @@ DisqusShortname = ""
     name = "Viagens"
     url = "/viagens"
     weight = 1
-  # [[menu.main]]
-  #   identifier = "loja"
-  #   name = "Loja"
-  #   url = "/loja/"
-  #   weight = 0
+  [[menu.main]]
+    identifier = "loja"
+    name = "Loja"
+    url = "/loja/"
+    weight = 0
   [[menu.main]]
     identifier = "fotos"
     name = "Fotos"
     url = "/fotos/"
-    weight = 0
+    weight = 2
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -41,7 +41,7 @@ author = "authors"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
-  inDevelopment = true
+  inDevelopment = false
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
@@ -63,6 +63,8 @@ author = "authors"
     # gitlab = "https://gitlab.com"
     # mastodon = "https://mastodon.social"
     # keybase = "https://keybase.io/"
+    youtube = "https://www.youtube.com/user/jeandivision"
+    spotify = "https://open.spotify.com/playlist/0fuoTFnmTga62x2ZMvOMf2?si=oeVasRE3RceDSyOdB5PTbA"
 
   [params.prismJS]
     enable = true

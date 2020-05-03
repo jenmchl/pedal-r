@@ -5,15 +5,16 @@ date = "2013-01-03"
 description = "Uma viagem ao sudeste asiático, cruzando Vietnam, Camboja e Thailandia."
 gears = "Fixed Gear"
 people = "3"
-duration = "3 months"
+duration = "91"
 altimetry = ""
 distance = ""
+year = "jun/jul/ago 2013"
 photographers = "Suryan Cury"
 images = ["capa-euro-tour.jpg"]
 
 +++
 
-_O ano 2013: Em três meses verão pelo oeste europeu._
+_Em três meses pelo verão do oeste europeu._
 
 <!--more-->
 

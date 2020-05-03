@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main class="homepage container py-6">
+    <div class="articles row row-cols-1 row-cols-lg-3">
+        {{ range (where .Site "Type" "in" .Site.Params.mainSections) }}
+            <div class="col mb-3">
+                {{ .Render "card" }}
+            </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
