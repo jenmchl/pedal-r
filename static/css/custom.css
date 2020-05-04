@@ -177,6 +177,31 @@ a:hover {
     width: 100%;
 }
 
+.partner-list{
+    text-align: right;
+    color: white;
+    font-family: 'orbitron';
+}
+
+.partner-list li {
+    top: 5px;
+    position: relative;
+}
+
+.partner-list li:nth-child(1) {
+    top: 10px;
+}
+
+.partner-list img {
+    height: 2em;
+    line-height: 2em;
+    position: relative;
+    vertical-align: middle;
+    height: 2em;
+    margin-top: 6px;
+
+}
+
 .info-bar {
   padding: 10px;
   font-family: 'orbitron';

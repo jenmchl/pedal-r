@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col-lg-4 col-md-4 mb-12">
                 <ul class="list-inline">
                     {{ if .Site.Params.social.rss -}}
                     <li class="list-inline-item">
@@ -37,22 +37,37 @@
                                     </span>
                             </a>
                         </li>
+
                         {{- end -}}
                     {{- end }}
                 </ul>
 
-                <p class="text-muted">
-                    {{ if .Site.Copyright }}
-                        {{ .Site.Copyright | safeHTML }}
-                    {{ else }}
-                        {{ now.Year }}
-                    {{ end }}
-                </p>
 
-                <p class="text-muted">
-                <!-- Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with <a href="https://github.com/puresyntax71/hugo-theme-chunky-poster" target="_blank">Chunky Poster</a>. -->
-                </p>
+
             </div>
+            <div class="col-lg-8 col-md-8 mb-12">
+              <ul class="partner-list">
+                 <li class="list-inline-item">
+                   <span> Apoio: </span>
+                 </li>
+                  <li class="list-inline-item">
+                      <a  href="https://www.instagram.com/alpina_sports/" class="d-block" target="_blank">
+                          <img class="partner" src="{{ .Site.BaseURL }}images/partner/alpina.png" alt="Alpina">
+                      </a>
+                  </li>
+                <li class="list-inline-item">
+                      <a  href="https://www.instagram.com/velodeathofficial/" class="d-block" target="_blank">
+                          <img class="partner" src="{{ .Site.BaseURL }}images/partner/velodeath.png" alt="Velodeath">
+                      </a>
+                </li>
+                <li class="list-inline-item">
+                      <a  href="https://www.instagram.com/katsukazan/" class="d-block" target="_blank">
+                          <img class="partner" src="{{ .Site.BaseURL }}images/partner/katsu.png" alt="Alpina">
+                      </a>
+                </li>
+              </ul>
+            </div>
+
         </div>
     </div>
 </footer>
