@@ -1,4 +1,4 @@
-+++
+<!-- +++
 authors = [
     "Douglas Coelho de Lima",
 ]
@@ -15,4 +15,4 @@ images = [
 +++
 
 _Entre o mar e a lagoa até o Reveillon Uruguayo._
-<!--more-->
+<!--more--> 
