@@ -46,8 +46,10 @@ Já na segunda, após um dia de pedal intenso e um café da manhã que virou alm
 
 Nessa, tinha uma escola ao lado, então, logo cedo, havia muitas crianças querendo conversar e saber o que estávamos fazendo por ali. Subiram nas bicicletas e levaram um puxão de orelha da professora.
 
-{{< figure src="/images/foz-foz/foz-foz-07.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-08.jpg" >}}
+{{< figure src="/images/foz-foz/foz-foz-07.jpg" alt="" class="vertical-img right">}}
+{{< figure src="/images/foz-foz/foz-foz-08.jpg" alt="" class="vertical-img left">}}
+
+
 Na sequência, partimos pra movimentada capital: estrada boa, muito sobe e desce, tempo quente e muitas paradas para descansarmos e manter o grupo próximo um do outro. Chegando à cidade, demos uma volta e procuramos onde comer qualquer coisa que fosse barato e um lugar para dormir.
 
 {{< figure src="/images/foz-foz/foz-foz-09.jpg" >}}

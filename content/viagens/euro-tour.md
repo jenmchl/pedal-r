@@ -2,7 +2,7 @@
 authors = "Douglas Coelho"
 title = "European Velodeath Tour"
 date = "2013-01-03"
-description = "Uma viagem ao sudeste asiático, cruzando Vietnam, Camboja e Thailandia."
+description = "Em três meses pelo verão do oeste europeu."
 gears = "Fixed Gear"
 people = "3"
 duration = "91"

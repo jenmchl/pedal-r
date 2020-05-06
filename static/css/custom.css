@@ -227,6 +227,39 @@ a:hover {
   margin-bottom: 80px;
 }
 
+.article .content .vertical-img {
+  max-width: 100%;
+  margin: 0px;
+}
+.article .content .horizontal-img {
+  margin: 0px;
+}
+@media only screen and (min-width: 767px) {
+  .article .content .vertical-img {
+    max-width: 48%;
+    margin: 10px 0;
+  }
+  .article .content .horizontal-img {
+    margin: 10px 0;
+  }
+}
+
+.article .content p {
+  text-indent: 1.8em;
+  text-align: justify;
+}
+
+@media only screen and (min-width: 767px) {
+  .article .content .vertical-img.left {
+    float: left;
+    margin-right: 10px;
+  }
+  .article .content .vertical-img.right {
+    float: right;
+    margin-left: 10px;
+  }
+}
+
 .navbar-nav {
   font-family: 'orbitron';
 }
