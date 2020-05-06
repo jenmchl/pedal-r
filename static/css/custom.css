@@ -119,6 +119,7 @@ a { color: #000; }
 
 .list-inline, .list-unstyled {
     position: absolute;
+    margin-top: 4px;
 }
 
 a:hover {

@@ -17,7 +17,7 @@
     </div> -->
 
     <!-- Latest article -->
-        {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 3 ) }}
+        {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 2 ) }}
         <div class=" row py-lg-5">
             <div class="col-lg-12 mb-12">
                 {{- with $page.Params.images -}}
@@ -38,7 +38,7 @@
             </div>
         </div>
 
-        {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 4 ) }}
+        {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 3 ) }}
         <div class=" row py-lg-5">
             <div class="col-lg-6 mb-6">
                 {{- with $page.Params.images -}}
@@ -59,7 +59,7 @@
             </div>
 
             <div class="col-lg-6 mb-6">
-                {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 5 ) }}
+                {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 4 ) }}
                 {{- with $page.Params.images -}}
                     {{- $images := . -}}
                     {{- with $page.Site.GetPage "section" "images" -}}
