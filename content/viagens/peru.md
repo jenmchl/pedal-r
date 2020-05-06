@@ -1,6 +1,6 @@
 +++
 authors = "Luis Felipe Cagliari"
-title = "Codilheira Branca - Peru"
+title = "Cordilheira Branca - Peru"
 date = "2018-12-01"
 description = "Os andes peruanos e uma volta completa na Codilheira Branca."
 gears = "MTB/Gravel"
