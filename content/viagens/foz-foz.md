@@ -20,37 +20,29 @@ images = ["capa-foz-foz.jpg"]
 _Paraguay, Argentina e Brasil, uma volta saindo e voltando da triplice-fronteira._
 <!--more-->
 
-
-{{< figure src="/images/foz-foz/foz-foz-01.jpg" >}}
-
 Nos juntamos em Foz do Iguaçu um dia antes, já que éramos de outras cidades e até país, para organizar nossas bolsas e bicicletas: cinco fixas, uma single speed e uma gravel.
-
-{{< figure src="/images/foz-foz/foz-foz-02.jpg" >}}
-
 Partimos um pouco tarde, atravessando a Ponte da Amizade sem muita burocracia em direção a Assunção com o sol castigando e muito vento. Esse foi o clima de toda a viagem, sem uma gota de chuva.
 
-{{< figure src="/images/foz-foz/foz-foz-03.jpg" >}}
-
+{{< figure src="/images/foz-foz/foz-foz-01.jpg" >}}
+{{< figure src="/images/foz-foz/foz-foz1.jpg" alt="" class="vertical-img ">}}
+{{< figure src="/images/foz-foz/foz-foz-02.jpg" alt="" class="vertical-img right">}}
 Demoramos três dias para completar essa primeira etapa com uma boa altimetria e dormimos em duas igrejas de pequenas cidades na beira da estrada, assim conseguíamos um bom teto para usar nossos sacos de dormir, isolantes térmicos e fogareiro para passar o café ou a janta, além de um banho gelado.
 
-{{< figure src="/images/foz-foz/foz-foz-04.jpg" >}}
-
+{{< figure src="/images/foz-foz/foz-foz-04.jpg" alt="" class="vertical-img right">}}
 A primeira estava em reforma, mas achamos o padre de calção e sem camisa mexendo no computador numa mesa no jardim, e logo nos cedeu uma sala da igreja onde os eventuais peregrinos dormiam.
-Deviam ter umas doze camas beliches um tanto empoeiradas, chuveiros e um bom jardim pra conversarmos.
-
-{{< figure src="/images/foz-foz/foz-foz-05.jpg" >}}
-
-Já na segunda, após um dia de pedal intenso e um café da manhã que virou almoço na beira da estrada, quem nos ajudou foi uma freira, que, ao fazermos uma cara de pobres coitados, prontamente ligou para o padre, que nos liberou uma grande sala vazia.
-
-{{< figure src="/images/foz-foz/foz-foz-06.jpg" >}}
-
+Deviam ter umas doze camas beliches um tanto empoeiradas, chuveiros e um bom jardim pra conversarmos. Já na segunda, após um dia de pedal intenso e um café da manhã que virou almoço na beira da estrada, quem nos ajudou foi uma freira, que, ao fazermos uma cara de pobres coitados, prontamente ligou para o padre, que nos liberou uma grande sala vazia.
 Nessa, tinha uma escola ao lado, então, logo cedo, havia muitas crianças querendo conversar e saber o que estávamos fazendo por ali. Subiram nas bicicletas e levaram um puxão de orelha da professora.
+
+{{< figure src="/images/foz-foz/foz-foz-05.jpg" alt="" class="vertical-img right">}}
+{{< figure src="/images/foz-foz/foz-foz-06.jpg" alt="" class="vertical-img left">}}
+{{< figure src="/images/foz-foz/foz-foz5.jpg" >}}
+
+Na sequência, partimos pra movimentada capital: estrada boa, muito sobe e desce, tempo quente e muitas paradas para descansarmos e manter o grupo próximo um do outro. Chegando à cidade, demos uma volta e procuramos onde comer qualquer coisa que fosse barato e um lugar para dormir.
 
 {{< figure src="/images/foz-foz/foz-foz-07.jpg" alt="" class="vertical-img right">}}
 {{< figure src="/images/foz-foz/foz-foz-08.jpg" alt="" class="vertical-img left">}}
 
 
-Na sequência, partimos pra movimentada capital: estrada boa, muito sobe e desce, tempo quente e muitas paradas para descansarmos e manter o grupo próximo um do outro. Chegando à cidade, demos uma volta e procuramos onde comer qualquer coisa que fosse barato e um lugar para dormir.
 
 {{< figure src="/images/foz-foz/foz-foz-09.jpg" >}}
 {{< figure src="/images/foz-foz/foz-foz-10.jpg" >}}
@@ -116,56 +108,20 @@ Passamos uma noite em Jardim América numa igreja com um padre polonês que cuid
 {{< figure src="/images/foz-foz/foz-foz-31.jpg" >}}
 {{< figure src="/images/foz-foz/foz-foz-35.jpg" >}}
 Na verdade, essa foi a terceira opção de pernoite, pois tínhamos tentado outra igreja, cujo padre, depois de muita espera, recusou, por telefone, a estadia – sendo que estávamos na frente da sua casa –, e os bombeiros nos ofereceram um lugar ruim para acampar, infelizmente.
-
-
 Depois de um bom desjejum oferecido pelo polaco e risadas com os ovos desenhados com canetinha enquanto arrumávamos a cozinha, o padre ainda chamou um amigo da rádio local para contarmos da viagem e puxar o saco dele.
-
-
 Seguimos até chegarmos à cidade de San Vicente, comemos e acabamos no centro, onde estava rolando a festa de aniversário da cidade com apresentações de músicas tradicionalistas, cheio de gaita e violão.
-
-
 Estava todo mundo olhando pra gente, parecíamos uns ET’s, e ainda, entre as apresentações, nos chamaram pelo microfone do palco para falarmos o que estávamos fazendo.
-
-
 Nisso, um senhor chamado Vicente foi conversar conosco sobre as bicicletas. Disse que gostava de pedalar, falamos sobre a viagem, e ele nos ajudou a conseguir autorização para dormirmos no centro esportivo da cidade, que foi um luxo com boas e limpas beliches, além de banheiro gigante.
-
-
 No outro dia, como de costume, acordamos cedo, passamos o café, nos despedimos do novo amigo e seguimos em direção a Dionísio Cerqueira no Brasil.
-
-
 A ideia era aumentar um pouco o percurso da viagem, almoçarmos um buffet livre e voltar pro lado argentino. Pegamos mais uns pedaços de estrada de chão no caminho, muito sol como sempre e poucos pontos de parada na estrada, mas com uma boa paisagem. Pedalamos muito.
-
-
-
 Depois de dormirmos e andarmos 30km por aqui, voltamos de barriga muito cheia pro lado hermano pela cidade de Santo Antônio e pedalamos em direção a Foz para completarmos o ciclo.
-
-
 Com uma estrada muito boa e um pouco de serra, chegamos a Cabure-í, que é um pequeno vilarejo.
-
-
 Tinha quase nada em volta e já começava a entardecer, sem iluminação na rua. Vimos uma escola e,  antes de terminarmos de pedir abrigo, o caseiro já estava abrindo o portão. A escola estava no processo final de construção, tinha uma sala só para nós, janelas com mosqueteiros e ventiladores.
-
-
 Fizemos uma janta na lenha nos fundos do pátio com o camarada, que passou a madrugada ouvindo rock no seu radinho, enquanto dormíamos.
-
-
 Durante o percurso todo, foram seis igrejas, o ginásio esportivo, essa escola que estava terminando de construir, além dos hostels, que pagamos para nos organizarmos e dormir um pouco melhor.
-
-
 Acordamos cedo já falando que faltava pouco para acabar, mas antes entramos na parte do Parque Nacional Iguaçu. Chão batido com muitas pedras e barro seco, já que não chovia há semanas na região, e vegetação fechada.
-
-
 As poucas pessoas que vimos sempre perguntavam da onça que até agora não apareceu.
-
-
 Demoramos a manhã toda para atravessar, alguns pneus furados, água acabando e sem ter onde repor, mas motivados por ser a reta final.
-
-
 Ainda tentamos um atalho clandestino, passando por dentro da área das cataratas, mas tantos ciclistas de bretelle e capacete surgindo da floresta chamou um pouco a atenção dos guardas, que nos escoltaram para dar a volta por onde entramos.
-
-
-
 No finalzinho, ainda tivemos um bom pedaço de asfalto com fluxo de carros já mirando a fronteira.
-
-
 Passamos pela alfândega rapidamente e conseguimos arranjar uma boa confusão com a polícia por conta das bicicletas no “Duty Free Shop” antes de, enfim, atravessarmos a ponte e comemorarmos em um bom buffet livre no centro de Foz do Iguaçu (teve gente passando mal de tanto olho grande) e explorarmos um pouco a cidade, depois de duas semanas comendo o que tinha pela frente na estrada ou usando o guerreiro fogareiro.

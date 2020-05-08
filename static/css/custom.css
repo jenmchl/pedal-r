@@ -172,6 +172,7 @@ a:hover {
   }
 }
 
+
 .footer {
     position: fixed;
     bottom: 0;
@@ -246,7 +247,7 @@ a:hover {
 }
 
 .article .content p {
-  text-indent: 1.8em;
+  text-indent: 0em;
   text-align: justify;
 }
 
