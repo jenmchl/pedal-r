@@ -80,7 +80,7 @@ Foi muito foda ter ido pro outro lado da cidade, pois deu pra sacar como a coisa
 
 Chegado o dia em que começamos o role de verdade, finalizamos nossas bicicletas com as bolsas e roupas. Demorou um pouco para nove pessoas se arrumarem, pois sempre tem o que acorda por último, mas conseguimos. No começo a estrada era grande e bem movimentada de motos e de pequenos caminhões, mas no segundo dia já eram vias bem menores com casas que ficavam entre a estrada e o rio, então a parte de trás delas ficava em cima de colunas de madeira muito altas por conta do período de chuvas intenso no meio do ano. A rua era extensão da casa deles, com as mesas pro lado de fora nas ruas mais calmas.
 
-{{< figure src="/images/asia/asia-14.jpg" alt="Vietnamita" class="vertical-img right">}}
+{{< figure src="/images/asia/asia-14.jpg" alt="Vietnamita" class="half-img right">}}
 
 
 Fizemos um trajeto sentido ao sul do Vietnã, passando pelo Delta do Mekong, então tinha muitas pontes e balsas no caminho. Esse foi o trajeto mais legal de pedalar, pois estávamos em estradas pequenas e mais afastados das cidades, e o povo mais receptivo. Acho que todas as crianças nos davam “hello” no Vietnã (um não, vários) e os adultos feliz ano novo, pois no calendário chinês o ano do porco começou na primeira semana de fevereiro (2019). Com isso, tinha muitas flores nas ruas e feiras para comemorar.

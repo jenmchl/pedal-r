@@ -23,90 +23,55 @@ _Paraguay, Argentina e Brasil, uma volta saindo e voltando da triplice-fronteira
 Nos juntamos em Foz do Iguaçu um dia antes, já que éramos de outras cidades e até país, para organizar nossas bolsas e bicicletas: cinco fixas, uma single speed e uma gravel.
 Partimos um pouco tarde, atravessando a Ponte da Amizade sem muita burocracia em direção a Assunção com o sol castigando e muito vento. Esse foi o clima de toda a viagem, sem uma gota de chuva.
 
-{{< figure src="/images/foz-foz/foz-foz-01.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz1.jpg" alt="" class="vertical-img ">}}
-{{< figure src="/images/foz-foz/foz-foz-02.jpg" alt="" class="vertical-img right">}}
 Demoramos três dias para completar essa primeira etapa com uma boa altimetria e dormimos em duas igrejas de pequenas cidades na beira da estrada, assim conseguíamos um bom teto para usar nossos sacos de dormir, isolantes térmicos e fogareiro para passar o café ou a janta, além de um banho gelado.
 
-{{< figure src="/images/foz-foz/foz-foz-04.jpg" alt="" class="vertical-img right">}}
 A primeira estava em reforma, mas achamos o padre de calção e sem camisa mexendo no computador numa mesa no jardim, e logo nos cedeu uma sala da igreja onde os eventuais peregrinos dormiam.
 Deviam ter umas doze camas beliches um tanto empoeiradas, chuveiros e um bom jardim pra conversarmos. Já na segunda, após um dia de pedal intenso e um café da manhã que virou almoço na beira da estrada, quem nos ajudou foi uma freira, que, ao fazermos uma cara de pobres coitados, prontamente ligou para o padre, que nos liberou uma grande sala vazia.
 Nessa, tinha uma escola ao lado, então, logo cedo, havia muitas crianças querendo conversar e saber o que estávamos fazendo por ali. Subiram nas bicicletas e levaram um puxão de orelha da professora.
 
-{{< figure src="/images/foz-foz/foz-foz-05.jpg" alt="" class="vertical-img right">}}
-{{< figure src="/images/foz-foz/foz-foz-06.jpg" alt="" class="vertical-img left">}}
-{{< figure src="/images/foz-foz/foz-foz5.jpg" >}}
-
 Na sequência, partimos pra movimentada capital: estrada boa, muito sobe e desce, tempo quente e muitas paradas para descansarmos e manter o grupo próximo um do outro. Chegando à cidade, demos uma volta e procuramos onde comer qualquer coisa que fosse barato e um lugar para dormir.
 
-{{< figure src="/images/foz-foz/foz-foz-07.jpg" alt="" class="vertical-img right">}}
-{{< figure src="/images/foz-foz/foz-foz-08.jpg" alt="" class="vertical-img left">}}
-
-
-
-{{< figure src="/images/foz-foz/foz-foz-09.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-10.jpg" >}}
 Durante a noite, ainda caminhamos um pouco pelo centro para conhecer a cidade e beber alguma coisa.
-
-{{< figure src="/images/foz-foz/foz-foz-11.jpg" >}}
 Não levantamos tão cedo, já que estávamos em um hostel com boa cama, e dormimos tarde.
 
-{{< figure src="/images/foz-foz/foz-foz-12.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-13.jpg" >}}
+
 Bem alimentados e organizados, seguimos rumo ao sentido sul do Paraguai, costeando o rio Paraguai. Depois de alguns quilômetros de alto fluxo de carros e caminhões saindo da cidade, entramos numa rota tranquila, mas com o asfalto muito ruim no começo, onde ainda havia um pequeno fluxo de caminhões da área industrial.
 
-{{< figure src="/images/foz-foz/foz-foz-14.jpg" >}}
+
 Chegamos a um asfalto novo. Ficou perfeito para pedalarmos por muito tempo mesmo com sol e sem lugar para descansarmos, até que, faltando 25km para a cidade de Alberdi, o asfalto acabou, pois estava em fase de construção.
 
-{{< figure src="/images/foz-foz/foz-foz-15.jpg" >}}
+
 No lugar dele, uma estrada de chão com maquinários e muito esburacada surgiu, já que alguma patrola de rolo dentado deixou tudo daquele jeito. Foi o pior trecho da viagem, e demoramos muito até chegarmos à entrada da cidade.
 A ideia era só passar por Alberdi e pegar a balsa para Formosa, do lado argentino, mas acabou que a balsa já tinha fechado, então fomos procurar abrigo na igreja da cidade.
 
-{{< figure src="/images/foz-foz/foz-foz-17.jpg" >}}
-
 Lá encontramos o padre César, que é brasileiro, anda de bicicleta por tudo, nos recebeu muito bem oferecendo uma sala nos fundos da igreja e de tomarmos banho na sua casinha enquanto nos dividíamos em fazer a janta.
 
-{{< figure src="/images/foz-foz/foz-foz-16.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-18.jpg" >}}
 Ele ainda nos ajudou na travessia no dia seguinte, sempre com bom humor, contando a história da cidade, de que os bombeiros trabalham mais com a retirada da água do rio que transborda no período de chuva do que com fogo, e falando coisas que, pelo fato dele ser padre, ficavam muito mais engraçadas, como a questão de ele não poder comer amendoim, ou dizer “Deus lhe pague” para a comunidade, pois ele não tinha dinheiro. A cidade toda adora ele, e nós também.
 
-{{< figure src="/images/foz-foz/foz-foz-19.jpg" >}}
 Passada a balsa e vendo a diferença estrutural/econômica do outro lado, tomamos outro café reforçado e logo saímos de Formosa,  onde a estrada era mais monótona, com retas infinitas e poucos lugares para parar na estrada e beber alguma coisa, muito vento e praticamente sem acostamento, o que dificultou um pouco.
 
-{{< figure src="/images/foz-foz/foz-foz-20.jpg" >}}
+
 Foram dois dias inteiros assim pela rota 11, dormindo num lugar horrível com barulho de bicho, mas foi engraçado. Certa hora do segundo dia, resolvemos pegar um atalho e caímos numa viela de chão batido com uma pilha de ossos de bois, de urubus, de um porco gigante, muito lixo e pequenos barracos até que pegamos o atalho do atalho e voltamos pra estrada, a rota 16, até chegarmos a Corrientes, que tem uma praia no rio Paraná com uma ponte gigante e uma praia na entrada da cidade.
 
-{{< figure src="/images/foz-foz/foz-foz-21.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-22.jpg" >}}
 Nos instalamos num hostel, e ainda deu tempo de dar uma boa caminhada pelo centro e pelo parque, que estava bem movimentado por causa de alguma festividade.
 
-{{< figure src="/images/foz-foz/foz-foz-25.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-26.jpg" >}}
 A partir disso, começamos a repensar o trajeto que não estava tão atraente e voltarmos pro lado paraguaio, na represa Yacyreta. Ficamos na dúvida se era permitido a travessia e passamos um bom tempo conversando, enquanto cozinhávamos um panelão de arroz com lentilha na lenha em outra igreja.
 
-{{< figure src="/images/foz-foz/foz-foz-27.jpg" >}}
 Mas jogamos pra sorte decidir, na manhã seguinte, o que aconteceria: fomos barrados. Apenas carros podiam passar. Nem mesmo motos, pedestres, caminhões ou ciclistas.
 Depois de um bom tempo esperando e tentando, conseguimos uma carona numa camioneta de um funcionário da hidroelétrica, colocamos as bicicletas na parte de trás, enquanto alguns carimbavam os passaportes, e nos apertamos (não sei como) dentro do carro.
 Enquanto isso, o amigo nos falava da história da represa e do sistema de um navio passar de um lado para o outro dela.
 
-{{< figure src="/images/foz-foz/foz-foz-29.jpg" >}}
 Então seguimos nosso rumo. Fomos costeando o rio Paraná até a cidade de Coronel Bogado. A estrada ruim, com muitos buracos e alguns metros abaixo do nível do rio – enquanto tinha uma pista nova bem na beira, mas na qual não era permitido trafegar.
 
-{{< figure src="/images/foz-foz/foz-foz-28.jpg" >}}
 Em algum ponto da estrada, subimos o barranco para admirar a vista e descansar, curtindo a imensidão da água, até chegarmos à cidade para direto procurar o padre.
 
-{{< figure src="/images/foz-foz/foz-foz-32.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-33.jpg" >}}
-Fizemos um pedal menor que a média até a cidade de Encarnación, onde, do outro lado do rio, dava para ver Posadas. Já em direção ao norte, passamos por outra balsa em Bella Vista para o lado argentino e, por acaso, conhecemos um casal de gaúchos amigos do padre César, de Alberdi, que involuntariamente nos facilitou a burocracia da revista na divisa, pois os guardas desencanaram com tanta conversa em volta.
 
-{{< figure src="/images/foz-foz/foz-foz-34.jpg" >}}
+Fizemos um pedal menor que a média até a cidade de Encarnación, onde, do outro lado do rio, dava para ver Posadas. Já em direção ao norte, passamos por outra balsa em Bella Vista para o lado argentino e, por acaso, conhecemos um casal de gaúchos amigos do padre César, de Alberdi, que involuntariamente nos facilitou a burocracia da revista na divisa, pois os guardas desencanaram com tanta conversa em volta.
 
 Seguimos pedalando pela rota 12 e depois pela rota 14.
 Aqui a estrada voltou a ter grandes subidas e descidas, e a paisagem da vegetação era bem agradável.
 Passamos uma noite em Jardim América numa igreja com um padre polonês que cuidava há quinze anos da paróquia da cidade.
 
-{{< figure src="/images/foz-foz/foz-foz-31.jpg" >}}
-{{< figure src="/images/foz-foz/foz-foz-35.jpg" >}}
 Na verdade, essa foi a terceira opção de pernoite, pois tínhamos tentado outra igreja, cujo padre, depois de muita espera, recusou, por telefone, a estadia – sendo que estávamos na frente da sua casa –, e os bombeiros nos ofereceram um lugar ruim para acampar, infelizmente.
 Depois de um bom desjejum oferecido pelo polaco e risadas com os ovos desenhados com canetinha enquanto arrumávamos a cozinha, o padre ainda chamou um amigo da rádio local para contarmos da viagem e puxar o saco dele.
 Seguimos até chegarmos à cidade de San Vicente, comemos e acabamos no centro, onde estava rolando a festa de aniversário da cidade com apresentações de músicas tradicionalistas, cheio de gaita e violão.

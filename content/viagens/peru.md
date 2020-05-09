@@ -19,12 +19,12 @@ _Os andes peruanos e uma volta completa na Codilheira Branca._
 
 E lá estava eu, a 3100 metros sobre o nível do mar. Me sentia bem, até subir o primeiro lance de escadas. Os primeiros dias de aclimatação na cidade de Huaraz - a cidade mais importante da Cordilheira Branca - foram essenciais para o sucesso da empreitada que passaria os 4500m de altitude algumas vezes.
 
-{{< figure src="/images/peru/peru1.jpg" alt="" class="vertical-img right">}}
+{{< figure src="/images/peru/peru1.jpg" alt="" class="half-img right">}}
 
 
 Durante a aclimatação sofri uma queda um pouco grave num descenço da Laguna Wilcacocha, e os meus ralados ardiam como brasa na hora de dormir. Depois da solução de arnica em álcool recomendada pelos nativos, curei a inflamação e estávamos prontos pra iniciar o pedal com a circum-pedalada no Huascaran. Mas quem sabe uma partida de volei, antes disso? Os moradores se divertem nas ruas, instalam redes de volei e contam os pontos com prendedores de roupa nas cordas. Eu e o Guilherme fomos colocados um de cada lado da rede, tratados como gigantes, e num lance decisivo da partida ele torceu feio o pé. E assim começou a nossa viagem... Não lembro quem ganhou no volei.
 
-{{< figure src="/images/peru/peru3.jpg" alt="" class="vertical-img left">}}
+{{< figure src="/images/peru/peru3.jpg" alt="" class="half-img left">}}
 
 A Cordilheira Branca conta com 16 picos a cima dos 6000 de altitude, numa extensão de 180km em linha reta, ao lado da Cordilheira Negra, mais baixa. O Huscarán é a montanha mais alta do Peru, com 6768 metros, e demoramos alguns dias pra dar a volta completa, iniciando em Huaraz, cruzando o túnel rodoviário mais alto do mundo, passando por Chacas, Sapcha, Yanama, cruzando o Paso e a Laguna Llaganuco, a Laguna 69 e finalmente terminando a primeira perna da viagem em Yungay. Yungay já foi soterrada completamente por um deslizamento do Huáscaran, em 1970, e hoje está reerguida em nova posição. Estávamos na temporada de maio e junho de 2018.
 
