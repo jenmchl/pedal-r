@@ -9,6 +9,7 @@ duration = "15"
 altimetry = "1069m"
 distance = "1100km"
 photographers = "Gianfranco Vacani/Jean Michel"
+idKomoot = "174701760"
 images = ["capa-poa-montevideo.jpg"]
 
 +++

@@ -10,6 +10,7 @@ altimetry = "5550m"
 distance = "850km"
 year = "nov 2017"
 photographers = "Gianfranco Vacani"
+idKomoot = "179431864"
 images = ["capa-sp-rio.jpeg"]
 
 +++
