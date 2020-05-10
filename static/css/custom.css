@@ -139,7 +139,7 @@ a:hover { text-decoration: none; }
 }
 
 .highlight-cover h2 {
-  color: white;
+  color: rgba(255, 255, 255, 0.7);
   font-size: 6.25rem;
   line-height: 350px;
 }
