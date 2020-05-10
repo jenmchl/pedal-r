@@ -28,6 +28,10 @@ a:hover { text-decoration: none; }
     padding-top: 3rem !important;
 }
 
+.pt-7, .py-7 {
+  padding-top: 3rem !important;
+}
+
 .card-body {
   margin-top: 15px;
   padding: 0;
@@ -228,6 +232,10 @@ a:hover { text-decoration: none; }
   margin-right: 3px;
 }
 
+.info-bar i.fa-long-arrow-alt-up {
+  margin: -2px;
+}
+
 .background-pink {
   background-color: #ea5688;
   color: white;
@@ -237,6 +245,14 @@ a:hover { text-decoration: none; }
   margin-right: 10px;
   line-height: 18px;
   font-size: 13px;
+}
+
+.info-bar a {
+  text-decoration: none;
+}
+
+.info-bar a:hover {
+  color: #ea5688;
 }
 
 .article .content {
@@ -282,7 +298,6 @@ a:hover { text-decoration: none; }
     margin: 20px 0;
   }
 }
-
 
 .navbar-nav {
   font-family: 'orbitron';

@@ -8,10 +8,10 @@
                         <h2 class="mb-3">{{ .Title }}</h2>
                           <div class="info-bar background-pink">
                             {{ with .Params.Gears }}
-                              <nobr><i title="Engrenagem" class="fas fa-cog fa-lg"> </i><span> {{ . }} </span></nobr>
+                              <nobr><i title="Engrenagem" class="fas fa-cog fa"> </i><span> {{ . }} </span></nobr>
                             {{ end }}
                             {{ with .Params.Distance }}
-                              <nobr><i title="Distância" class="fas fa-road fa-lg"></i> <span> {{ . }} </span> </nobr>
+                              <nobr><i title="Distância" class="fas fa-road fa"></i> <span> {{ . }} </span> </nobr>
                             {{ end }}
                             {{ with .Params.Altimetry}}
                               <nobr>
@@ -20,26 +20,39 @@
                               </nobr>
                             {{ end }}
                             {{ with .Params.Duration }}
-                              <nobr><i title="Duração" class="fas fa-hourglass-half fa-lg"></i> <span> {{ . }} </span></nobr>
+                              <nobr><i title="Duração" class="fas fa-hourglass-half fa"></i> <span> {{ . }} </span></nobr>
                             {{ end}}
                             {{ with .Params.People }}
-                              <nobr><i title="Viajantes" class="fas fa-users fa-lg"></i> <span> {{ . }}  </span></nobr>
+                              <nobr><i title="Viajantes" class="fas fa-users fa"></i> <span> {{ . }}  </span></nobr>
                             {{ end }}
                             {{ with .Params.Churchs }}
-                               <nobr><i title="Igrejas" class="fas fa-church fa-lg"></i> <span> {{ . }} </span></nobr>
+                               <nobr><i title="Igrejas" class="fas fa-church fa"></i> <span> {{ . }} </span></nobr>
                             {{ end }}
                             {{ with .Params.Year }}
-                               <nobr><i title="Data" class="far fa-calendar-alt fa-lg"></i> <span> {{ . }} </span></nobr>
+                               <nobr><i title="Data" class="far fa-calendar-alt fa"></i> <span> {{ . }} </span></nobr>
                             {{ end }}
                          </div>
                          <div class="info-bar">
-                           {{ with .Params.Photographers}}
-                              <nobr><i title="Fotógrafo" class="fas fa-camera fa-lg"></i> <span> {{ . }} </span></nobr>
-                           {{ end }}
-                           {{ with .Params.Authors }}
-                              <nobr><i title="Autor" class="fas fa-user-edit fa-lg"></i> <span> {{ . }} </span></nobr>
-                           {{ end }}
+                           {{- $authors := .Params.Authors -}}
+                           {{- $photographers := .Params.Photographers -}}
 
+                           <nobr><i title="Fotógrafo" class="fas fa-camera fa"></i>
+                             {{ range .Site.Params.Contributors }}
+                               {{- $contributor := . -}}
+                               {{- if in $photographers $contributor.name -}}
+                                   <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
+                               {{- end -}}
+                             {{ end }}
+                           </nobr>
+
+                           <nobr><i title="Autor" class="fas fa-user-edit fa"></i>
+                               {{ range .Site.Params.Contributors }}
+                                 {{- $contributor := . -}}
+                                 {{- if in $authors $contributor.name -}}
+                                    <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
+                                 {{- end -}}
+                               {{ end }}
+                           </nobr>
                         </div>
                         <div class="content">
                             {{ .Content }}

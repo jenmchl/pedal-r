@@ -66,6 +66,37 @@ author = "authors"
     youtube = "https://www.youtube.com/user/jeandivision"
     spotify = "https://open.spotify.com/playlist/0fuoTFnmTga62x2ZMvOMf2?si=oeVasRE3RceDSyOdB5PTbA"
 
+
+  [[params.contributors]]
+    name = "Jean Michel"
+    insta = "jeanmichelf"
+
+  [[params.contributors]]
+    name = "Douglas Coelho"
+    insta =  "ruivo138"
+
+  [[params.contributors]]
+    name = "Bárbara Hartmann"
+    insta =  "bahartma"
+
+  [[params.contributors]]
+    name = "Bruno Lourenço"
+    insta =  "bruunolouurenco"
+
+  [[params.contributors]]
+    name = "Gianfranco Vacani"
+    insta =  "gianfranco.vacani"
+
+  [[params.contributors]]
+    name = ""
+    insta =  ""
+
+  [[params.contributors]]
+    name = ""
+    insta =  ""
+
+
+
   [params.prismJS]
     enable = true
     theme = ""
