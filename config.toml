@@ -45,7 +45,7 @@ author = "authors"
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
-  customJS = []
+  customJS = ["custom.js"]
 
   [params.social]
     # rss = true
