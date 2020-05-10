@@ -179,19 +179,18 @@ a:hover {
     width: 100%;
 }
 
-.partner-list{
-    text-align: right;
+.footer ul {
+  margin: 2px 0;
+  padding: 0;
+}
+
+.partner-list {
     color: white;
     font-family: 'orbitron';
 }
 
 .partner-list li {
-    top: 5px;
-    position: relative;
-}
-
-.partner-list li:nth-child(1) {
-    top: 10px;
+    margin-bottom: 5px;
 }
 
 .partner-list img {
@@ -200,8 +199,25 @@ a:hover {
     position: relative;
     vertical-align: middle;
     height: 1.4em;
-    margin-top: 6px;
+}
 
+@media only screen and (min-width: 767px) {
+  .partner-list li {
+    top: 6px;
+    position: relative;
+  }
+  .partner-list li:nth-child(1) {
+      top: 10px;
+  }
+  .partner-list img {
+    margin-top: 6px;
+  }
+  .partner-list {
+    text-align: right;
+  }
+  .contact-list {
+    text-align: left;
+  }
 }
 
 .info-bar {
