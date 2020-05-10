@@ -41,7 +41,7 @@ author = "authors"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
-  inDevelopment = false
+  inDevelopment = true
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
@@ -88,8 +88,8 @@ author = "authors"
     insta =  "gianfranco.vacani"
 
   [[params.contributors]]
-    name = ""
-    insta =  ""
+    name = "Guilherme Akio"
+    insta =  "akiooika"
 
   [[params.contributors]]
     name = ""

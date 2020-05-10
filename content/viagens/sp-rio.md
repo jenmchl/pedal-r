@@ -1,5 +1,5 @@
 +++
-authors = "Guilherme Akio"
+authors = ["Guilherme Akio"]
 title = "São Paulo - Rio de Janeiro"
 date = "2017-10-01"
 description = "De São Paulo pela costa-litoral até Búzios com a Hardbrakers."
@@ -107,7 +107,7 @@ Quando entramos no Rio de Janeiro, o trânsito voltou a nos fazer companhia, dep
 
 {{< figure src="/images/sp-rio/sp-rio23.jpg" alt="" class="half-img single right">}}
 
---- 
+---
  Ficamos duas noites no Rio de Janeiro onde conseguimos um Airbnb, ficamos hospedados como reis, perfeito para repor as energias, aquele descanso merecido. Nesses dias, cada um foi tomando seu ritmo de passeio: alguns mais festeiros e outros mais afim de relaxar. Um dia eu fui visitar meus tios que moram na cidade e reencontrar outros conhecidos da mensageria carioca. Acompanhei o Gianfranco e o Rob, que foi fazer uma tatuagem numa das noites (uma pata de lagarto que ele havia encontrado na estrada e estava preso no garfo da bicicleta), um lembrete de toda a “garra” do rolê.
 
  {{< figure src="/images/sp-rio/sp-rio29.jpg" >}}
