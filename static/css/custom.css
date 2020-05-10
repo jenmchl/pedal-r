@@ -159,15 +159,15 @@ a:hover {
 @media only screen and (max-width: 600px) {
   .highlight-cover h2 {
     font-size: calc(1.35rem + 1.2vw);
-    padding-top: 15%;
-    line-height: inherit;
+    padding-top: 3rem;
+    line-height: 1;
   }
   .highlight-cover.secondary h2 {
     font-size: calc(1.35rem + 1.2vw);
-    padding-top: 15%;
-    line-height: inherit;
+    padding-top: 2rem;
+    line-height: 1;
   }
-  .highlight-cover {
+  .highlight-cover, .highlight-cover.secondary {
     height: 7rem;
   }
 }
