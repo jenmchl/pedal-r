@@ -224,6 +224,11 @@ a:hover {
   padding: 10px;
   font-family: 'orbitron';
   letter-spacing: 1px;
+  line-height: 1.6;
+}
+
+.info-bar i {
+  margin-right: 3px;
 }
 
 .background-pink {
