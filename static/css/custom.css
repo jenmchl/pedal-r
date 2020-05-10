@@ -290,3 +290,7 @@ a:hover {
 .navbar-nav {
   font-family: 'orbitron';
 }
+
+.modal-content {
+  border-radius: 1px;
+}
