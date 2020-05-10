@@ -59,7 +59,6 @@
             </div>
 
             <div class="col-lg-6 mb-6">
-                {{ $baseURL := (.Site.BaseURL) }}
                 {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 4 ) }}
                 {{- with $page.Params.images -}}
                     {{- $images := . -}}
@@ -67,11 +66,11 @@
                         {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
                             {{- $image := . -}}
                             <a href="{{ $page.RelPermalink }}" class="d-block">
-                              <div class="highlight-cover secondary" style='background-image: url({{ $baseURL }}images/capa-poa-montevideo.jpg)' alt="{{ $page.Title }}">
-                                  <div class="highlight-filter" >
-                                    <h2> {{ $page.Title }} </h2>
-                                  </div>
-                              </div>
+                                <div class="highlight-cover secondary" style='background-image: url({{ $image.RelPermalink }})' alt="{{ $page.Title }}">
+                                    <div class="highlight-filter" >
+                                        <h2> {{ $page.Title }} </h2>
+                                    </div>
+                                </div>
                             </a>
                         {{- end -}}
                     {{- end -}}
