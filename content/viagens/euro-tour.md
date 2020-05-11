@@ -1,5 +1,5 @@
 +++
-authors = "Douglas Coelho"
+authors = ["Douglas Coelho"]
 title = "European Velodeath Tour"
 date = "2013-01-03"
 description = "Em três meses pelo verão do oeste europeu."
@@ -9,7 +9,7 @@ duration = "91"
 altimetry = ""
 distance = ""
 year = "jun/jul/ago 2013"
-photographers = "Suryan Cury"
+photographers = ["Suryan Cury"]
 images = ["capa-euro-tour.jpg"]
 
 +++
