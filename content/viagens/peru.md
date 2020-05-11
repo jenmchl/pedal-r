@@ -1,5 +1,5 @@
 +++
-authors = "Luis Felipe Cagliari"
+authors = ["Luis Felipe Cagliari"]
 title = "Cordilheira Branca - Peru"
 date = "2018-12-01"
 description = "Os andes peruanos e uma volta completa na Codilheira Branca."
@@ -9,7 +9,7 @@ duration = "60"
 altimetry = "25000m"
 distance = "1000km"
 year = "mai/jun 2018"
-photographers = "Luis Felipe Cagliari"
+photographers = ["Luis Felipe Cagliari"]
 images = ["capa-peru.jpg"]
 
 +++
