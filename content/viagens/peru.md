@@ -6,10 +6,11 @@ description = "Os andes peruanos e uma volta completa na Codilheira Branca."
 gears = "MTB/Gravel"
 people = "2"
 duration = "60"
-altimetry = "25000m"
-distance = "1000km"
+altimetry = "17190m"
+distance = "720km"
 year = "mai/jun 2018"
 photographers = ["Luis Felipe Cagliari"]
+idKomoot = "177816651"
 images = ["capa-peru.jpg"]
 
 +++
