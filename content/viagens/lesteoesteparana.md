@@ -1,4 +1,4 @@
-+++
+<!-- +++
 authors = "Jean Michel"
 title = "Desafio Leste Oeste Paraná"
 date = "2019-09-01"
@@ -16,4 +16,4 @@ images = ["capa-desafio.jpg"]
 
 _Travessia do estado do Paraná, 750km em 48 horas._
 
-<!--more
+<!--more -->
