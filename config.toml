@@ -42,7 +42,7 @@ translate = "translate"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
-  inDevelopment = true
+  inDevelopment = false
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
