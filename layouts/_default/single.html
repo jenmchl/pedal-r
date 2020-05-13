@@ -37,7 +37,7 @@
                            {{- $photographers := .Params.Photographers -}}
                            {{- $translator := .Params.Translator -}}
 
-                           <nobr><i title="Fotógrafo(a)" class="fas fa-camera fa"></i>
+                           <nobr><i title="Fotografia" class="fas fa-camera fa"></i>
                              {{ range .Site.Params.Contributors }}
                                {{- $contributor := . -}}
                                {{- if in $photographers $contributor.name -}}
@@ -46,7 +46,7 @@
                              {{ end }}
                            </nobr>
 
-                           <nobr><i title="Autor(a)" class="fas fa-user-edit fa"></i>
+                           <nobr><i title="Autoria" class="fas fa-user-edit fa"></i>
                                {{ range .Site.Params.Contributors }}
                                  {{- $contributor := . -}}
                                  {{- if in $authors $contributor.name -}}
@@ -55,7 +55,7 @@
                                {{ end }}
                            </nobr>
 
-                           <nobr><i title="Tradutor(a)" class="fas fa-globe fa"></i>
+                           <nobr><i title="Tradução" class="fas fa-globe fa"></i>
                                {{ range .Site.Params.Contributors }}
                                  {{- $contributor := . -}}
                                  {{- if in $translator $contributor.name -}}
