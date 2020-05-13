@@ -41,7 +41,7 @@ author = "authors"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = false
-  inDevelopment = false
+  inDevelopment = true
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]
@@ -54,7 +54,7 @@ author = "authors"
     # twitter = "https://twitter.com"
     # linkedin = "https://linkedin.com"
     # stack-overflow = "https://stackoverflow.com"
-    instagram = "https://instagram.com/pedl.r"
+    instagram = "https://instagram.com/pedal.r_"
     # github = "https://github.com"
     # weibo = "https://www.weibo.com"
     # medium = "https://medium.com"
