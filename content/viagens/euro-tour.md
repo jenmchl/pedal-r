@@ -10,6 +10,7 @@ altimetry = ""
 distance = ""
 year = "jun/jul/ago 2013"
 photographers = ["Suryan Cury"]
+idKomoot = "182772558"
 images = ["capa-euro-tour.jpg"]
 
 +++
