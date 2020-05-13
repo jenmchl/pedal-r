@@ -10,7 +10,7 @@ altimetry = "3480m"
 distance = "1100km"
 year = "fev 2019"
 photographers = ["Gianfranco Vacani","Roberto Bicicletas"]
-translate = ["Caleb Candido"]
+translator = ["Caleb Candido"]
 idKomoot = "182743483"
 images = ["capa-asia.jpg"]
 
@@ -115,9 +115,7 @@ Nos planejamos pra seguir até a cidade de Siem Reap, dois dias de pedalada. Sem
 
 As pessoas gostavam de interagir com a gente, mesmo que fosse difícil, e isso era legal! Logo na saída da capital, entramos num templo bem grande, com uma estátua do Buda gigante. Não tirei foto, pois alguém falou de uma lenda muito louca que iria acontecer algo de ruim numa próxima vida. Pra não chatear o amigo, desisti de registrar o momento. Entre esses dois dias, dormimos num hotel que tinha um restaurante grande no térreo com batata frita, então deu para fazer a festa e dar uma boa dormida.
 
-Chegando em Siem Reap, o movimento de carros foi aumentando. Por conta do templo Angkor Wat, tinha muito turista. Ele é a maior estrutura religiosa já construída, então imagina quanta gente quer ver a parada. Na tarde em que chegamos, ficamos mais ao centro, muitos bares e comércio em geral. Tudo em dólar. À noite fomos numa baladinha, ruas agitadas, galera ficou na loucurinha e na saída deu até pra arranjar briga. Fortes emoções.
-
-Durante a noite também, um dos nossos porcalhões jogou uma latinha no chão e um moleque de uns doze anos que estava vendendo uns escorpiões fritos nos xingou,  perguntando se estávamos em casa jogando lixo na rua, “this is Camboja, man!!!”. E com razão, a cidade cheia de turista e geral fazendo sujeira.
+Chegando em Siem Reap, o movimento de carros foi aumentando. Por conta do templo Angkor Wat, tinha muito turista. Ele é a maior estrutura religiosa já construída, então imagina quanta gente quer ver a parada. Na tarde em que chegamos, ficamos mais ao centro, muitos bares e comércio em geral. Tudo em dólar. À noite fomos numa baladinha, ruas agitadas, galera ficou na loucurinha e na saída deu até pra arranjar briga. Fortes emoções. Durante a noite também, um dos nossos porcalhões jogou uma latinha no chão e um moleque de uns doze anos que estava vendendo uns escorpiões fritos nos xingou,  perguntando se estávamos em casa jogando lixo na rua, “this is Camboja, man!!!”. E com razão, a cidade cheia de turista e geral fazendo sujeira.
 No outro dia fomos no templo. No começo desistimos, pois é caro pra entrar lá e tem muita gente. Depois resolvemos dar uma pedalada em volta, mas fomos barrados por uns guardas que falaram que só podia se aproximar do templo pagando ou depois das 17h, quando fosse fechar. Como pra tudo na vida tem um jeito, voltamos mais tarde.
 
 {{< figure src="/images/asia/asia80.jpg" >}}
