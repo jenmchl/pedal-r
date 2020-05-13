@@ -33,6 +33,7 @@ category = "categories"
 tag = "tags"
 series = "series"
 author = "authors"
+translate = "translate"
 
 [params]
   author = "PEdAL-R"
@@ -102,6 +103,14 @@ author = "authors"
  [[params.contributors]]
     name = "Luis Felipe Cagliari"
     insta =  "luisfelipeogro"
+
+ [[params.contributors]]
+    name = "Julia Jubileu"
+    insta =  "julia.jubileu"
+
+ [[params.contributors]]
+    name = "Caleb Candido"
+    insta =  "calebcandido"
 
   [params.prismJS]
     enable = true

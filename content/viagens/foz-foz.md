@@ -12,6 +12,7 @@ altimetry = "9260m"
 distance = "1560km"
 year = "set 2019"
 photographers = ["Gianfranco Vacani","Bruno Lourenço"]
+translate = ["Julia Jubileu"]
 churchs = "6"
 idKomoot = "182533138"
 images = ["capa-foz-foz.jpg"]

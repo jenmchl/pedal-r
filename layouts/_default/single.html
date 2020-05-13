@@ -35,8 +35,9 @@
                          <div class="info-bar">
                            {{- $authors := .Params.Authors -}}
                            {{- $photographers := .Params.Photographers -}}
+                           {{- $translate := .Params.Translate -}}
 
-                           <nobr><i title="Fotógrafo" class="fas fa-camera fa"></i>
+                           <nobr><i title="Fotógrafo(a)" class="fas fa-camera fa"></i>
                              {{ range .Site.Params.Contributors }}
                                {{- $contributor := . -}}
                                {{- if in $photographers $contributor.name -}}
@@ -45,10 +46,19 @@
                              {{ end }}
                            </nobr>
 
-                           <nobr><i title="Autor" class="fas fa-user-edit fa"></i>
+                           <nobr><i title="Autor(a)" class="fas fa-user-edit fa"></i>
                                {{ range .Site.Params.Contributors }}
                                  {{- $contributor := . -}}
                                  {{- if in $authors $contributor.name -}}
+                                    <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
+                                 {{- end -}}
+                               {{ end }}
+                           </nobr>
+
+                           <nobr><i title="Tradutor(a)" class="fas fa-globe fa"></i>
+                               {{ range .Site.Params.Contributors }}
+                                 {{- $contributor := . -}}
+                                 {{- if in $translate $contributor.name -}}
                                     <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
                                  {{- end -}}
                                {{ end }}

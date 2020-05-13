@@ -10,6 +10,7 @@ altimetry = "2540"
 distance = "1030km"
 year = "dez 2017 jan 2018"
 photographers = "Gianfranco Vacani/Jean Michel"
+translate = ["Julia Jubileu"]
 idKomoot = "182528130"
 images = ["capa-poa-montevideo.jpg"]
 
@@ -156,7 +157,7 @@ Na manhã seguinte seguimos sentido Montevideo. Saímos com mais um dia lindo de
 
 {{< figure src="/images/poa-montevideo/poa-montevideo76.jpg" alt="" class="half-img single left">}}
 
- E do céu azul começaram a cair as primeiras gotas de chuva transformando a estrada em um espelho d'água, os carros que passavam nos banhavam, e após uma onda vinda de um caminhão, decidimos esperar em um ponto de ônibus, desta vez para se esconder da chuva e não do sol.
+E do céu azul começaram a cair as primeiras gotas de chuva transformando a estrada em um espelho d'água, os carros que passavam nos banhavam, e após uma onda vinda de um caminhão, decidimos esperar em um ponto de ônibus, desta vez para se esconder da chuva e não do sol.
 Esperamos por ali a passagem da nuvem, e assim que a chuva parou entramos na estrada secundária que surgia logo a frente, por ela cortarmos o caminho da estrada principal até a região de Punta del Este. Foram 30 quilômetros de terra batida. Era um sobe e desce em direção ao mar, onde ou acelerávamos ou sentíamos nossas bicicletas afundarem na terra. A estrada terminava em um condomínio de luxo. Na bifurcação, seguimos a direita e, mais uma vez, uma linha reta em direção sul, mais alguns quilômetros daquela estrada que nos chacoalhava tanto que impedia o diálogo. Quando vimos o asfalto chegando, comemoramos, e o esforço que fazíamos na terra, ali se tornou quase nulo. O mar começou a nos acompanhar à nossa esquerda e na nossa frente, só víamos nuvens cinzas.
 
 {{< figure src="/images/poa-montevideo/poa-montevideo77.jpg" alt="" class="half-img left">}}
