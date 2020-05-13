@@ -22,13 +22,13 @@ Nessa viagem de três meses pela Europa, a nossa primeira em outras terras, o
 planejamento consistia em pedalarmos e conhecermos algumas cidades durante
 o verão europeu. Fomos em três pessoas e cada um levou, além da sua bicicleta,
 uma mochila com poucas roupas, ferramentas, saco de dormir e um simples mala
-bike que fizemos as pressas e que por vezes serviu de isolante térmico para
+bike que fizemos às pressas e que por vezes serviu de isolante térmico para
 dormirmos. O único compromisso datado durante a viagem era o CMWC 2013
 (Cycle Messenger World Championship), em Lausanne. Ficávamos
 aproximadamente uma semana em cada local, e seguíamos pedalando ou
 dividindo o percurso com o trem.
 Começamos por Paris, depois de uma pequena escala em Lisboa, e seguimos
-para Londres onde quase fomos barrados na fronteira, Bruxelas, Rotterdam,
+para Londres, onde quase fomos barrados na fronteira, Bruxelas, Rotterdam,
 Alkmaar, Amsterdam, Hamburgo com os amigos Hardbrakers, Berlin, Basel na
 tríplice fronteira, Lausanne para o encontro de ciclo mensageiros, atravessamos
 os alpes para chegar em Genebra e finalizamos em Lisboa, depois de repassar
