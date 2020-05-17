@@ -311,3 +311,13 @@ a:hover { text-decoration: none; }
 .fotos.list img {
   width: 100%;
 }
+
+.fotos.list .fa-images {
+  color: white;
+  float: right;
+  position: relative;
+  top: -32px;
+  margin-bottom: -30px;
+  right: 8px;
+  font-size: 1.5rem;
+}

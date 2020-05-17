@@ -13,6 +13,7 @@
                                     <a href="{{ .Permalink }}" data-toggle="lightbox" data-gallery="gallery-{{ $index }}">
                                         <img src="{{ .Permalink }}" class="img-fluid">
                                     </a>
+                                    {{ if gt (len $page.Resources) 1 }}<i title="Distância" class="far fa-images"></i>{{ end }}
                                 </figure>
                             {{ else }}
                                 <a href="{{ .Permalink }}" data-toggle="lightbox" data-gallery="gallery-{{ $index }}"></a>
