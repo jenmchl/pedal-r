@@ -4,7 +4,7 @@
     {{ partial "head.html" . }}
 </head>
 <body>
-    {{- if .Site.Params.inDevelopment -}}
+    {{- if (and .Site.Params.inDevelopment (not .Site.BuildDrafts)) -}}
       {{ partial "in-development.html" }}
       {{ partial "footer-indevelopment.html" . }}
 
