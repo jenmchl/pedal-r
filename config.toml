@@ -33,7 +33,6 @@ category = "categories"
 tag = "tags"
 series = "series"
 author = "authors"
-translate = "translate"
 
 [params]
   author = "PEdAL-R"
@@ -41,8 +40,8 @@ translate = "translate"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
   share = true
-  showLanguageSwitcher = false
-  inDevelopment = true
+  showLanguageSwitcher = true
+  inDevelopment = false
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = ["custom.css"]

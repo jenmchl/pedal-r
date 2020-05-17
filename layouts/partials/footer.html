@@ -6,7 +6,7 @@
                 <ul class="contact-list">
                     {{- if .Site.Params.social.email -}}
                     <li class="list-inline-item">
-                        <a href="mailto://{{ .Site.Params.social.email }}" class="icons d-block">
+                        <a href="mailto:{{ .Site.Params.social.email }}" class="icons d-block">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-envelope fa-stack fa-inverse pink-link"></i>
                             </span>
@@ -18,8 +18,8 @@
                         <li class="list-inline-item">
                             <a href="{{ $path | safeURL }}" class="icons d-block" target="_blank">
                                 <span class="fa-stack fa-lg">
-                                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse pink-link"></i>
-                                    </span>
+                                    <i class="fab fa-{{ $name }} fa-stack fa-inverse pink-link"></i>
+                                </span>
                             </a>
                         </li>
                         {{- end -}}
