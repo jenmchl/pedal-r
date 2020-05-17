@@ -2,7 +2,7 @@
 key: velodeath
 title: Velodeath
 category: gold
-logo: /images/partners/velodeath.png
+logo: /partner/images/velodeath.png
 website: 'https://www.instagram.com/velodeathofficial/'
 socials: []
 ---

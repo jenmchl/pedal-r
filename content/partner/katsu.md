@@ -2,7 +2,7 @@
 key: katsukazan
 title: Katsukazan
 category: gold
-logo: /images/partners/katsu.png
+logo: /partner/images/katsu.png
 website: 'https://www.instagram.com/katsukazan/'
 socials: []
 ---
