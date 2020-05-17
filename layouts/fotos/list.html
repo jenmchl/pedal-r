@@ -1,32 +1,27 @@
 {{ define "main" }}
 <main class="fotos list container py-6">
     <div class="row row-cols-1 row-cols-lg-3">
-        {{ range .Pages }}
+        {{ range $index, $page := .Pages }}
             <div class="col mb-3">
 
-              <div class="card h-100">
-                  {{ $page := . }}
-                      {{- with $page.Params.images -}}
-                          {{- $cover := (index . 0) -}}
-                          {{ $cover }}
-                          <figure>
-                              <a href="{{ $.Site.BaseURL }}{{ $cover }}">
-                                <img src="{{ $.Site.BaseURL }}{{ $cover }}">
-                              </a>
-                          </figure>
+                <div class="card h-100">
+                    {{- with $page.Params.images -}}
+                        {{- $cover := (index . 0) -}}
+                        {{- range $page.Resources -}}
+                            {{ if in (string $cover) (string .) }}
+                                <figure>
+                                    <a href="{{ .Permalink }}" data-toggle="lightbox" data-gallery="gallery-{{ $index }}">
+                                        <img src="{{ .Permalink }}" class="img-fluid">
+                                    </a>
+                                </figure>
+                            {{ else }}
+                                <a href="{{ .Permalink }}" data-toggle="lightbox" data-gallery="gallery-{{ $index }}"></a>
+                            {{ end }}
+                        {{- end -}}
+                    {{- end -}}
 
-
-                          {{ $page.Resources }}
-
-                      {{- end -}}
-                      <div class="card-body">
-                          <!-- <h4 class="card-title pink-link">{{ $page.Title }}</h4> -->
-                          <div class="card-text">
-                              {{ $page.Description | plainify }}
-                          </div>
-                      </div>
-              </div>
-
+                    {{ $page.Description | plainify }}
+                </div>
 
             </div>
         {{ end }}
