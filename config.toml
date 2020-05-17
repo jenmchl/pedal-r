@@ -1,4 +1,3 @@
-
 baseURL = "https://pedal-r.com/"
 title = "Pedal-R"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -28,11 +27,12 @@ DisqusShortname = ""
   #   name = "Fotos"
   #   url = "/fotos/"
   #   weight = 2
+
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-author = "authors"
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
 
 [params]
   author = "PEdAL-R"
@@ -48,66 +48,43 @@ author = "authors"
   customJS = ["custom.js"]
 
   [params.social]
-    # rss = true
     email = "contato.pedalr@gmail.com"
-    # facebook = "https://facebook.com"
-    # twitter = "https://twitter.com"
-    # linkedin = "https://linkedin.com"
-    # stack-overflow = "https://stackoverflow.com"
     instagram = "https://instagram.com/pedal.r_"
-    # github = "https://github.com"
-    # weibo = "https://www.weibo.com"
-    # medium = "https://medium.com"
-    # pinterest = "https://pinterest.com"
-    # reddit = "https://reddit.com"
-    # gitlab = "https://gitlab.com"
-    # mastodon = "https://mastodon.social"
-    # keybase = "https://keybase.io/"
     youtube = "https://www.youtube.com/user/jeandivision"
     spotify = "https://open.spotify.com/playlist/0fuoTFnmTga62x2ZMvOMf2?si=oeVasRE3RceDSyOdB5PTbA"
-
+    # github = "https://github.com/jenmchl/pedal-r"
 
   [[params.contributors]]
     name = "Jean Michel"
     insta = "jeanmichelf"
-
   [[params.contributors]]
     name = "Douglas Coelho"
     insta =  "ruivo138"
-
   [[params.contributors]]
     name = "Bárbara Hartmann"
     insta =  "bahartma"
-
   [[params.contributors]]
     name = "Bruno Lourenço"
     insta =  "bruunolouurenco"
-
   [[params.contributors]]
     name = "Gianfranco Vacani"
     insta =  "gianfranco.vacani"
-
   [[params.contributors]]
     name = "Guilherme Akio"
     insta =  "akiooika"
-
   [[params.contributors]]
     name = "Suryan Cury"
     insta =  "sussuryan"
-
   [[params.contributors]]
     name = "Roberto Bicicletas"
     insta =  "rainorshinecycles"
-
- [[params.contributors]]
+  [[params.contributors]]
     name = "Luis Felipe Cagliari"
     insta =  "luisfelipeogro"
-
- [[params.contributors]]
+  [[params.contributors]]
     name = "Julia Jubileu"
     insta =  "julia.jubileu"
-
- [[params.contributors]]
+  [[params.contributors]]
     name = "Caleb Candido"
     insta =  "calebcandido"
 
