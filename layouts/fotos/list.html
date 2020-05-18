@@ -21,7 +21,24 @@
                         {{- end -}}
                     {{- end -}}
 
-                    {{ $page.Description | plainify }}
+                    <h7 class="album-title">{{ $page.Description | plainify }}</h7>
+                    <div>
+                      {{- $photographers := .Params.Photographers -}}
+
+                      <nobr>
+                        {{- range .Site.Params.Contributors -}}
+                          {{- $contributor := . -}}
+                          {{- if in $photographers $contributor.name -}}
+                              <a target="_blank" class="info-photographers" href="https://instagram.com/{{ $contributor.insta }}">
+                                <span title="Fotografia">{{ $contributor.name }}</span>
+                              </a>
+                          {{- end -}}
+                        {{- end -}}
+                      </nobr>
+                      {{- with .Params.Year -}}
+                         <nobr><span title="Data" >, {{ . }} </span></nobr>
+                      {{- end -}}
+                    </div>
                 </div>
 
             </div>

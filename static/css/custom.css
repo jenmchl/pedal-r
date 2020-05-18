@@ -115,10 +115,6 @@ a:hover { text-decoration: none; }
     color: #000 !important;
 }
 
-/* .card-text {
-    font-style: italic;
-} */
-
 .fa-stack-2x {
     font-size: 0em;
 }
@@ -318,8 +314,19 @@ a:hover { text-decoration: none; }
   color: white;
   float: right;
   position: relative;
-  top: -32px;
+  top: -22px;
   margin-bottom: -30px;
   right: 8px;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  text-shadow: 2px 2px 4px black;
+}
+
+.info-photographers {
+  color: #ea5688;
+}
+
+.album-title {
+  font-family: orbitron;
+  margin-top: -5px;
+  margin-bottom: 5px;
 }
