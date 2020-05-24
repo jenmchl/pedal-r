@@ -1,8 +1,35 @@
 support:
     other: "Apoio"
 
+gear:
+    other: "Engrenagem"
+
+distance:
+    other: "Distância"
+
+altimetry:
+    other: "Altimetria"
+
+duration:
+    other: "Duração"
+
+travelers:
+    other: "Viajantes"
+
 church:
     other: "Igrejas"
+
+year:
+    other: "Data"
+
+photography:
+    other: "Fotografia"
+
+author:
+    other: "Autoria"
+
+translator:
+    other: "Tradução"
 
 # Single
 wordCount:

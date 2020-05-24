@@ -8,28 +8,28 @@
                         <h2 class="mb-3">{{ .Title }}</h2>
                           <div class="info-bar background-pink">
                             {{ with .Params.Gears }}
-                              <nobr><i title="Engrenagem" class="fas fa-cog fa"> </i><span> {{ . }} </span></nobr>
+                              <nobr><i title='{{ i18n "gear" }}' class="fas fa-cog fa"> </i><span> {{ . }} </span></nobr>
                             {{ end }}
                             {{ with .Params.Distance }}
-                              <nobr><i title="Distância" class="fas fa-road fa"></i> <span> {{ . }} </span> </nobr>
+                              <nobr><i title='{{ i18n "distance" }}' class="fas fa-road fa"></i> <span> {{ . }} </span> </nobr>
                             {{ end }}
                             {{ with .Params.Altimetry}}
                               <nobr>
-                                <i title="Altimetria" class="fas fa-long-arrow-alt-up"></i>
-                                <i title="Altimetria" class="fas fa-long-arrow-alt-down"></i> <span> {{ . }} </span>
+                                <i title='{{ i18n "altimetry" }}' class="fas fa-long-arrow-alt-up"></i>
+                                <i title='{{ i18n "altimetry" }}' class="fas fa-long-arrow-alt-down"></i> <span> {{ . }} </span>
                               </nobr>
                             {{ end }}
                             {{ with .Params.Duration }}
-                              <nobr><i title="Duração" class="fas fa-hourglass-half fa"></i> <span> {{ . }} </span></nobr>
+                              <nobr><i title='{{ i18n "duration" }}' class="fas fa-hourglass-half fa"></i> <span> {{ . }} </span></nobr>
                             {{ end}}
                             {{ with .Params.People }}
-                              <nobr><i title="Viajantes" class="fas fa-users fa"></i> <span> {{ . }}  </span></nobr>
+                              <nobr><i title='{{ i18n "travelers" }}' class="fas fa-users fa"></i> <span> {{ . }}  </span></nobr>
                             {{ end }}
                             {{ with .Params.Churchs }}
                                <nobr><i title='{{ i18n "church" }}' class="fas fa-church fa"></i> <span> {{ . }} </span></nobr>
                             {{ end }}
                             {{ with .Params.Year }}
-                               <nobr><i title="Data" class="far fa-calendar-alt fa"></i> <span> {{ . }} </span></nobr>
+                               <nobr><i title='{{ i18n "year" }}' class="far fa-calendar-alt fa"></i> <span> {{ . }} </span></nobr>
                             {{ end }}
                          </div>
                          <div class="info-bar">
@@ -37,7 +37,7 @@
                            {{- $photographers := .Params.Photographers -}}
                            {{- $translator := .Params.Translator -}}
 
-                           <nobr><i title="Fotografia" class="fas fa-camera fa"></i>
+                           <nobr><i title='{{ i18n "photography" }}' class="fas fa-camera fa"></i>
                              {{ range .Site.Params.Contributors }}
                                {{- $contributor := . -}}
                                {{- if in $photographers $contributor.name -}}
@@ -46,7 +46,7 @@
                              {{ end }}
                            </nobr>
 
-                           <nobr><i title="Autoria" class="fas fa-user-edit fa"></i>
+                           <nobr><i title='{{ i18n "author" }}' class="fas fa-user-edit fa"></i>
                                {{ range .Site.Params.Contributors }}
                                  {{- $contributor := . -}}
                                  {{- if in $authors $contributor.name -}}
@@ -55,7 +55,7 @@
                                {{ end }}
                            </nobr>
 
-                           <nobr><i title="Tradução" class="fas fa-globe fa"></i>
+                           <nobr><i title='{{ i18n "translator" }}' class="fas fa-globe fa"></i>
                                {{ range .Site.Params.Contributors }}
                                  {{- $contributor := . -}}
                                  {{- if in $translator $contributor.name -}}

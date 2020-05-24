@@ -1,8 +1,35 @@
 support:
-    other: "Support by"
+    other: "support by"
+
+gear:
+    other: "Gears"
+
+distance:
+    other: "Distance"
+
+altimetry:
+    other: "Altimetry"
+
+duration:
+    other: "Duration"
+
+travelers:
+    other: "Travelers"
 
 church:
-    other: "Churches"
+    other: "Churchs"
+
+year:
+    other: "Date"
+
+photography:
+    other: "Photographer"
+
+author:
+    other: "Author"
+
+translator:
+    other: "Translator"
 
 # Single
 wordCount:
