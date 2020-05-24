@@ -1,7 +1,7 @@
 {{ $current := . }}
 <nav class="navbar navbar-expand-md navbar-light bg-light shadow-sm" id="navbar-main-menu">
     <div class="container">
-        <a class="navbar-brand font-weight-bold" href="{{ .Site.BaseURL }}">
+        <a class="navbar-brand font-weight-bold" href='{{ "" | absLangURL }}'>
             <img class="logoheader" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="PEdAL-R">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
