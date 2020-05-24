@@ -10,6 +10,19 @@ googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
 # theme = "hugo-theme-chunky-poster"
 
+[languages]
+  [languages.pt-br]
+    DefaultContentLanguage = "pt-br"
+    weight = 1
+    [languages.pt-br.params]
+      # description = "What we see while we ride"
+  [languages.en]
+    DefaultContentLanguage = "en"
+    weight = 2
+    [languages.en.params]
+      # description = "What we see while we ride"
+      # [languages.en.params.navigation]
+      #   help = "Aide"
 
 [menu]
   [[menu.main]]
