@@ -299,6 +299,19 @@ a:hover { text-decoration: none; }
   }
 }
 
+.content .breadcrumbs {
+  margin-top: 20px;
+  font-family: 'orbitron';
+}
+
+.content .breadcrumbs .current {
+  color: #ea5688;
+}
+
+.content .breadcrumbs a:hover {
+  color: #ea5688;
+}
+
 .navbar-nav {
   font-family: 'orbitron';
 }

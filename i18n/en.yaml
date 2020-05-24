@@ -1,33 +1,28 @@
 support:
     other: "support by"
 
+home:
+    other: "Home"
+
+# Icon titles
 gear:
     other: "Gears"
-
 distance:
     other: "Distance"
-
 altimetry:
     other: "Altimetry"
-
 duration:
     other: "Duration"
-
 travelers:
     other: "Travelers"
-
 church:
     other: "Churchs"
-
 year:
     other: "Date"
-
 photography:
     other: "Photographer"
-
 author:
     other: "Author"
-
 translator:
     other: "Translator"
 

@@ -69,6 +69,14 @@
                             {{ with .Params.IdKomoot }}
                               <iframe src="https://www.komoot.com/tour/{{ . }}/embed?profile=1" width="100%" height="580" frameborder="0"></iframe>
                             {{ end }}
+
+                            <div class="breadcrumbs">
+                              <a href="{{ .Site.BaseURL }}">{{ i18n "home" }}</a> »
+                              {{ with (index .Site.Menus.main 0) }}
+                                <a href="{{.URL}}">{{.Name}}</a> »
+                              {{ end }}
+                              <a class="current" href="{{ .Permalink }}">{{ .Title }}</a>
+                            </div>
                         </div>
                     </div>
                 </div>
