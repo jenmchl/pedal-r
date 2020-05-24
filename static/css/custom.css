@@ -78,12 +78,15 @@ a:hover { text-decoration: none; }
     color: #000;
 }
 
+.language-flag {
+  max-width: 22px;
+}
+
 .in-development {
     width: 100%;
     height: 100%;
     text-align: center;
 }
-
 
 .in-development img {
     margin-top: 20%;

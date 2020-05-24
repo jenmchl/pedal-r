@@ -12,14 +12,16 @@ DisqusShortname = ""
 
 [languages]
   [languages.pt-br]
-    DefaultContentLanguage = "pt-br"
+    languageName = "Português BR"
     weight = 1
-    [languages.pt-br.params]
+    # flag = "img/flags/br.png"
+    # [languages.pt-br.params]
       # description = "What we see while we ride"
   [languages.en]
-    DefaultContentLanguage = "en"
+    languageName = "English"
     weight = 2
-    [languages.en.params]
+    # flag = "img/flags/uk.png"
+    # [languages.en.params]
       # description = "What we see while we ride"
       # [languages.en.params.navigation]
       #   help = "Aide"
