@@ -1,8 +1,8 @@
 {{ if .IsTranslated }}
     {{ range .Translations }}
 	<li class="nav-item">
-        <a class="nav-link" href="{{ .Permalink }}">
-            <img class="language-flag" src="{{ .Site.BaseURL }}img/flags/{{ .Language }}.png"/>
+        <a alt="{{ .Language.LanguageName }}" class="nav-link" href="{{ .Permalink }}">
+            <img title="{{ .Language.LanguageName }}" class="language-flag" src="{{ .Site.BaseURL }}img/flags/{{ .Language }}.png"/>
         </a>
     </li>
     {{ end}}
