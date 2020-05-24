@@ -10,38 +10,36 @@ googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
 # theme = "hugo-theme-chunky-poster"
 
-[languages]
-  [languages.pt-br]
-    languageName = "Português BR"
-    weight = 1
-    # flag = "img/flags/br.png"
-    # [languages.pt-br.params]
-      # description = "What we see while we ride"
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    # flag = "img/flags/uk.png"
-    # [languages.en.params]
-      # description = "What we see while we ride"
-      # [languages.en.params.navigation]
-      #   help = "Aide"
-
 [menu]
   [[menu.main]]
     identifier = "viagens"
     name = "Viagens"
     url = "/viagens"
     weight = 1
-  # [[menu.main]]
-  #   identifier = "loja"
-  #   name = "Loja"
-  #   url = "/loja/"
-  #   weight = 0
   [[menu.main]]
     identifier = "fotos"
     name = "Fotos"
     url = "/fotos/"
     weight = 2
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português BR"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    [[languages.en.menu.main]]
+      identifier = "viagens"
+      name = "Trips"
+      url = "/viagens"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "fotos"
+      name = "Photos"
+      url = "/fotos/"
+      weight = 2
 
 [taxonomies]
   category = "categories"
