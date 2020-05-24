@@ -2,13 +2,13 @@
 authors = ["Douglas Coelho"]
 title = "European Velodeath Tour"
 date = "2013-01-03"
-description = "Em três meses pelo verão do oeste europeu."
+description = "Three months in the western European summer."
 gears = "Fixed Gear"
 people = "3"
 duration = "91"
 altimetry = ""
 distance = ""
-year = "jun/jul/ago 2013"
+year = "Jun/Jul/Aug 2013"
 photographers = ["Suryan Cury"]
 translator = ["Julia Jubileu"]
 idKomoot = "182772558"
@@ -16,34 +16,14 @@ images = ["capa-euro-tour.jpg"]
 
 +++
 
-_Em três meses pelo verão do oeste europeu._
+_Three months in the western European summer._
 
 <!--more-->
 
-Nessa viagem de três meses pela Europa, a nossa primeira em outras terras, o
-planejamento consistia em pedalarmos e conhecermos algumas cidades durante
-o verão europeu. Fomos em três pessoas e cada um levou, além da sua bicicleta,
-uma mochila com poucas roupas, ferramentas, saco de dormir e um simples mala
-bike que fizemos às pressas e que por vezes serviu de isolante térmico para
-dormirmos. O único compromisso datado durante a viagem era o CMWC 2013
-(Cycle Messenger World Championship), em Lausanne. Ficávamos
-aproximadamente uma semana em cada local, e seguíamos pedalando ou
-dividindo o percurso com o trem.
-Começamos por Paris, depois de uma pequena escala em Lisboa, e seguimos
-para Londres, onde quase fomos barrados na fronteira, Bruxelas, Rotterdam,
-Alkmaar, Amsterdam, Hamburgo com os amigos Hardbrakers, Berlin, Basel na
-tríplice fronteira, Lausanne para o encontro de ciclo mensageiros, atravessamos
-os alpes para chegar em Genebra e finalizamos em Lisboa, depois de repassar
-por alguns lugares que superaram as expectativas.
-Conseguimos hospedagem em todas as cidades e sempre cozinhando um bom e
-grande almoço para economizarmos na rua. Algumas casas abusamos mais que
-as outras por serem brasileiros amigos de amigos, e certas vezes dormimos em
-estações de trem entre os países. Só em Bruxelas que conseguimos a façanha de
-sermos expulsos de uma barraca individual com nós três, na noite mais fria de
-toda a viagem, chovendo, azia, no pátio dos fundos de uma casa que combinamos
-dias antes, onde tinha uma sala enorme e vazia. Mas a consequência foi que
-conhecemos a lenda Karl, da Pedal BXL, que nos abrigou e mostrou que algumas
-coisas nesses três meses dariam erradas para dar certo.
+In this three-month trip through Europe, our first time overseas, the plan consisted of riding our bikes and getting to know some cities in the summer. There were three of us and each one took, in addition to their bike, a backpack with few clothes, some tools, a sleeping bag and a DIY bike bag built in a hurry that sometimes doubled as a sleeping pad. The only commitment we had with respect to a date was 2013’s CMWC (Cycle Messenger World Championship), in Lausanne, CH. So we would spend about a week in each location and then hit the road with our bikes, or take the train some parts of the way.
+We arrived in Paris, after a brief layover in Lisbon, and then went to London (where we almost got stuck at the border), Brussels, Rotterdam, Alkmaar, Amsterdam, Hamburg with our friends - the Hardbrakers, Berlin, Basel at the tri-border region, Lausanne for the Cycle Messenger Championship, all the way across the Alps to reach Geneva, and finally we finished our journey in Lisbon after going again to some places that exceeded all our expectations.
+We managed to save a lot of money by cooking great big meals and getting free accommodation in each and every city we stopped by. Sometimes we would find a house where we could linger longer because the hosts were brazilians friends of friends, and other times we would sleep in train stations between big cities. The only night we had a hard time was in Brussels when, due to a misunderstanding, the three of us had to share a 1-person tent out in the open in the coldest night of the trip, and it started raining. Fortunately the outcome was that because of this situation we got to meet the legendary Karl, from Pedal BXL, who sheltered us the next night and showed us that when traveling some things have to go wrong before going right.
+
 
 {{< figure src="/viagens/images/euro-tour/euro-tour-001.jpg" >}}
 {{< figure src="/viagens/images/euro-tour/euro-tour-003.jpg" >}}

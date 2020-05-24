@@ -2,13 +2,13 @@
 authors = ["Luis Felipe Cagliari"]
 title = "Cordilheira Branca - Peru"
 date = "2018-12-01"
-description = "Os andes peruanos e uma volta completa na Codilheira Branca."
+description = "The Peruvian Andes and a complete tour of the Codilheira Branca."
 gears = "MTB/Gravel"
 people = "2"
 duration = "60"
 altimetry = "17190m"
 distance = "720km"
-year = "mai/jun 2018"
+year = "May/Jun 2018"
 photographers = ["Luis Felipe Cagliari"]
 translator = ["Julia Jubileu"]
 idKomoot = "177816651"
@@ -16,7 +16,7 @@ images = ["capa-peru.jpg"]
 
 +++
 
-_Os andes peruanos e uma volta completa na Codilheira Branca._
+_The Peruvian Andes and a complete tour of the Codilheira Branca._
 <!--more-->
 
 E lá estava eu, a 3100 metros sobre o nível do mar. Me sentia bem, até subir o primeiro lance de escadas. Os primeiros dias de aclimatação na cidade de Huaraz - a cidade mais importante da Cordilheira Branca - foram essenciais para o sucesso da empreitada que passaria os 4500m de altitude algumas vezes.
