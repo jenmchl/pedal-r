@@ -26,7 +26,7 @@
                               <nobr><i title="Viajantes" class="fas fa-users fa"></i> <span> {{ . }}  </span></nobr>
                             {{ end }}
                             {{ with .Params.Churchs }}
-                               <nobr><i title="Igrejas" class="fas fa-church fa"></i> <span> {{ . }} </span></nobr>
+                               <nobr><i title='{{ i18n "church" }}' class="fas fa-church fa"></i> <span> {{ . }} </span></nobr>
                             {{ end }}
                             {{ with .Params.Year }}
                                <nobr><i title="Data" class="far fa-calendar-alt fa"></i> <span> {{ . }} </span></nobr>

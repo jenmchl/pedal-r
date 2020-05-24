@@ -1,3 +1,9 @@
+support:
+    other: "Support by"
+
+church:
+    other: "Churches"
+
 # Single
 wordCount:
     one: "{{ .Count }} word"

@@ -1,7 +1,13 @@
+support:
+    other: "Apoio"
+
+church:
+    other: "Igrejas"
+
 # Single
 wordCount:
-    one: "{{ .Count }} letter"
-    other: "{{ .Count }} letters"
+    one: "{{ .Count }} word"
+    other: "{{ .Count }} words"
 
 readingTime:
     one: "{{ .Count }} min read"
