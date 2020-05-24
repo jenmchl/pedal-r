@@ -36,7 +36,7 @@ DisqusShortname = ""
 
 [params]
   author = "PEdAL-R"
-  description = "em construção..."
+  description = "What we see while we ride"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
   share = true
@@ -50,7 +50,7 @@ DisqusShortname = ""
   [params.social]
     email = "contato.pedalr@gmail.com"
     instagram = "https://instagram.com/pedal.r_"
-    youtube = "https://www.youtube.com/user/jeandivision"
+    # youtube = "https://www.youtube.com/user/jeandivision"
     spotify = "https://open.spotify.com/playlist/0fuoTFnmTga62x2ZMvOMf2?si=oeVasRE3RceDSyOdB5PTbA"
     # github = "https://github.com/jenmchl/pedal-r"
 
