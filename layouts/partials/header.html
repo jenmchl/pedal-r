@@ -16,9 +16,20 @@
                     </li>
                 {{ end }}
             {{ end }}
-            {{- if .Site.Params.showLanguageSwitcher -}}
-                {{ partial "i18nlist.html" . }}
-            {{- end -}}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Links
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" target="_blank" href="https://www.bikepackingbrasil.com/">Bikepacking Brasil</a>
+                  <a class="dropdown-item" target="_blank" href="https://www.daemoncycling.com/">Daemon Cycling</a>
+                  <a class="dropdown-item" target="_blank" href="https://hardbrakers.com/">Hardbrakers</a>
+                  <a class="dropdown-item" target="_blank" href="https://www.kalapalo.com.br">Kalapalo</a>
+                </div>
+              </li>
+              {{- if .Site.Params.showLanguageSwitcher -}}
+                  {{ partial "i18nlist.html" . }}
+              {{- end -}}
             </ul>
         </div>
     </div>

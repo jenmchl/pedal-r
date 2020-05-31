@@ -10,7 +10,7 @@ altimetry = "17190m"
 distance = "720km"
 year = "mai/jun 2018"
 photographers = ["Luis Felipe Cagliari"]
-translator = ["Julia Jubileu"]
+translator = []
 idKomoot = "177816651"
 images = ["capa-peru.jpg"]
 

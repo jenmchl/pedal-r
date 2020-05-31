@@ -10,7 +10,7 @@ altimetry = "2540"
 distance = "1030km"
 year = "dez 2017 jan 2018"
 photographers = "Gianfranco Vacani/Jean Michel"
-translate = ["Julia Jubileu"]
+translate = []
 idKomoot = "182528130"
 images = ["capa-poa-montevideo.jpg"]
 

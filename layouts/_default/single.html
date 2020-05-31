@@ -55,14 +55,16 @@
                                {{ end }}
                            </nobr>
 
-                           <nobr><i title='{{ i18n "translator" }}' class="fas fa-globe fa"></i>
-                               {{ range .Site.Params.Contributors }}
-                                 {{- $contributor := . -}}
-                                 {{- if in $translator $contributor.name -}}
-                                    <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
-                                 {{- end -}}
-                               {{ end }}
-                           </nobr>
+                           {{ if $translator }}
+                             <nobr><i title='{{ i18n "translator" }}' class="fas fa-globe fa"></i>
+                                 {{ range .Site.Params.Contributors }}
+                                   {{- $contributor := . -}}
+                                   {{- if in $translator $contributor.name -}}
+                                      <a target="_blank" href="https://instagram.com/{{ $contributor.insta }}"> <span> {{ $contributor.name }} </span> </a>
+                                   {{- end -}}
+                                 {{ end }}
+                             </nobr>
+                           {{ end }}
                         </div>
                         <div class="content">
                             {{ .Content }}

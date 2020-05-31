@@ -22,6 +22,7 @@ DisqusShortname = ""
     url = "/fotos/"
     weight = 2
 
+
 [languages]
   [languages.pt-br]
     languageName = "Português BR"

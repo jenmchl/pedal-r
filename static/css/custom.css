@@ -110,6 +110,17 @@ a:hover { text-decoration: none; }
     color: #ea5688;
 }
 
+.dropdown-item:hover {
+  background-color: white;
+  color: #ea5688;
+}
+
+.dropdown-menu {
+  border-radius: 0px;
+  border: 0px;
+  font-size: 1rem;
+}
+
 .bg-dark {
     background-color: #000 !important;
 }
