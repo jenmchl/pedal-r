@@ -232,6 +232,16 @@ a:hover { text-decoration: none; }
   }
 }
 
+.article h2{
+  margin-bottom: 0px !important;
+}
+
+.article .description {
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  display: block;
+}
+
 .info-bar {
   padding: 10px;
   font-family: 'orbitron';

@@ -15,9 +15,6 @@ images = ["capa-sp-rio.jpeg"]
 
 +++
 
-_From São Paulo to Buzios along the coast with the Hardbrakers._
-<!--more-->
-
 Foi o Jean quem me convidou para essa aventura maluca, fiquei extremamente animado com o convite. A viagem era acompanhar um grupo de Alemães (os Hardbrakers) numa tour pelo litoral entre São Paulo e Rio de Janeiro, de bicicleta fixa. Eu sempre pedalei constantemente, alguns finais de semana treinava pegando estradas, mas nunca tinha feito uma viagem, nunca tinha passado vários dias sobre a bicicleta. Óbvio que a vontade de fazer isso era grande, então quando o convite surgiu, aceitei de imediato.
 
 {{< figure src="/viagens/images/sp-rio/sp-rio1.jpg" >}}

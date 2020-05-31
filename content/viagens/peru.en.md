@@ -16,9 +16,6 @@ images = ["capa-peru.jpg"]
 
 +++
 
-_The Peruvian Andes and a complete tour of the Codilheira Branca._
-<!--more-->
-
 E lá estava eu, a 3100 metros sobre o nível do mar. Me sentia bem, até subir o primeiro lance de escadas. Os primeiros dias de aclimatação na cidade de Huaraz - a cidade mais importante da Cordilheira Branca - foram essenciais para o sucesso da empreitada que passaria os 4500m de altitude algumas vezes.
 Durante a aclimatação sofri uma queda um pouco grave num descenço da Laguna Wilcacocha, e os meus ralados ardiam como brasa na hora de dormir. Depois da solução de arnica em álcool recomendada pelos nativos, curei a inflamação e estávamos prontos pra iniciar o pedal com a circum-pedalada no Huascaran. Mas quem sabe uma partida de volei, antes disso? Os moradores se divertem nas ruas, instalam redes de volei e contam os pontos com prendedores de roupa nas cordas. Eu e o Guilherme fomos colocados um de cada lado da rede, tratados como gigantes, e num lance decisivo da partida ele torceu feio o pé. E assim começou a nossa viagem... Não lembro quem ganhou no volei.
 

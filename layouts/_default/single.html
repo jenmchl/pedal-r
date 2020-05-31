@@ -6,7 +6,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <h2 class="mb-3">{{ .Title }}</h2>
-                          <div class="info-bar background-pink">
+                        <span class="description">{{ .Description }} </span>
+                        <div class="info-bar background-pink">
                             {{ with .Params.Gears }}
                               <nobr><i title='{{ i18n "gear" }}' class="fas fa-cog fa"> </i><span> {{ . }} </span></nobr>
                             {{ end }}

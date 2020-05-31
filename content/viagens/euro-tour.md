@@ -16,10 +16,6 @@ images = ["capa-euro-tour.jpg"]
 
 +++
 
-_Em três meses pelo verão do oeste europeu._
-
-<!--more-->
-
 Nessa viagem de três meses pela Europa, a nossa primeira em outras terras, o
 planejamento consistia em pedalarmos e conhecermos algumas cidades durante
 o verão europeu. Fomos em três pessoas e cada um levou, além da sua bicicleta,

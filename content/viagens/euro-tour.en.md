@@ -16,10 +16,6 @@ images = ["capa-euro-tour.jpg"]
 
 +++
 
-_Three months in the western European summer._
-
-<!--more-->
-
 In this three-month trip through Europe, our first time overseas, the plan consisted of riding our bikes and getting to know some cities in the summer. There were three of us and each one took, in addition to their bike, a backpack with few clothes, some tools, a sleeping bag and a DIY bike bag built in a hurry that sometimes doubled as a sleeping pad. The only commitment we had with respect to a date was 2013’s CMWC (Cycle Messenger World Championship), in Lausanne, CH. So we would spend about a week in each location and then hit the road with our bikes, or take the train some parts of the way.
 We arrived in Paris, after a brief layover in Lisbon, and then went to London (where we almost got stuck at the border), Brussels, Rotterdam, Alkmaar, Amsterdam, Hamburg with our friends - the Hardbrakers, Berlin, Basel at the tri-border region, Lausanne for the Cycle Messenger Championship, all the way across the Alps to reach Geneva, and finally we finished our journey in Lisbon after going again to some places that exceeded all our expectations.
 We managed to save a lot of money by cooking great big meals and getting free accommodation in each and every city we stopped by. Sometimes we would find a house where we could linger longer because the hosts were brazilians friends of friends, and other times we would sleep in train stations between big cities. The only night we had a hard time was in Brussels when, due to a misunderstanding, the three of us had to share a 1-person tent out in the open in the coldest night of the trip, and it started raining. Fortunately the outcome was that because of this situation we got to meet the legendary Karl, from Pedal BXL, who sheltered us the next night and showed us that when traveling some things have to go wrong before going right.

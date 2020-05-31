@@ -19,9 +19,6 @@ images = ["capa-foz-foz.jpg"]
 
 +++
 
-_Paraguay, Argentina and Brazil, a way around and back from the tri-border._
-<!--more-->
-
 We met up in Foz do Iguaçu a day before the start of our ride. As we came from different parts of the country and also from overseas, we needed this extra time to organize our bags and bikes: there were five fixies, one single-speed and one gravel. We left the next day, a little bit late, and crossed the Ponte da Amizade (The border between Brazil and Paraguay) heading towards Asunción in the punishing sun with a lot of wind. Those were the weather conditions throughout the entire trip, two weeks without a single drop of rain.
 
 {{< figure src="/viagens/images/foz-foz/foz2.jpg" >}}

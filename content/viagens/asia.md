@@ -16,10 +16,6 @@ images = ["capa-asia.jpg"]
 
 +++
 
-_Uma viagem ao sudeste asiático, cruzando Vietnam, Camboja e Tailândia._
-
-<!--more-->
-
 {{< figure src="/viagens/images/asia/asia19.jpg" alt="" class="half-img single right">}}
 
 Esse role foi fomentado há alguns anos quando catei minha mochila e bicicleta com mais dois amigos e fizemos uma euro trip de três meses do jeito mais do it yourself possível, arranjando contato com pessoas até então desconhecidas de um dia pro outro e trocando o almoço pela janta.

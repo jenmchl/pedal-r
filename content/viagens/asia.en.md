@@ -16,10 +16,6 @@ images = ["capa-asia.jpg"]
 
 +++
 
-_A trip to Southeast Asia, crossing Vietnam, Cambodia and Thailand._
-
-<!--more-->
-
 {{< figure src="/viagens/images/asia/asia19.jpg" alt="" class="half-img single right">}}
 
 This last trip was fomented a few years back when I had taken only a backpack, my bike and two friends along on a three month Euro tour in the most “do it yourself” way possible, entering in contact with people we hadn’t ever met and basically selling lunch to have dinner. During the trip, while pedaling through Hamburg, we met the hardbrakers crew, we immediately  noticed how much we had in common and kept in touch, until two years ago when they came to Brasil to cycle São Paulo-Rio de Janeiro with us, our friendship only grew stronger. So when we received the invite to tour with them from Vietnam through Cambodia and back to Thailand we formed a team of three Brazilian riders, ready to face this new challenge through asiatic territories.
