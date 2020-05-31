@@ -14,7 +14,7 @@ DisqusShortname = ""
   [[menu.main]]
     identifier = "viagens"
     name = "Viagens"
-    url = "/viagens"
+    url = "/viagens/"
     weight = 1
   [[menu.main]]
     identifier = "fotos"
