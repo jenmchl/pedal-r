@@ -59,7 +59,7 @@
             </div>
 
             <div class="col-lg-6 mb-6">
-                {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 3 ) }}
+                {{ $page := (index (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 4 ) }}
                 {{- with $page.Params.images -}}
                     {{- $images := . -}}
                     {{- with $page.Site.GetPage "section" "images" -}}

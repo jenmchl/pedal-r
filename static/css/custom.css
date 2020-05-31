@@ -343,6 +343,7 @@ a:hover { text-decoration: none; }
 
 .album-title {
   font-family: orbitron;
-  margin-top: -5px;
-  margin-bottom: 5px;
+  margin-top: 0.15rem;
+  margin-bottom: .75rem;
+  font-size: 18px;
 }
