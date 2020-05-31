@@ -10,7 +10,6 @@ altimetry = "2540"
 distance = "1030km"
 year = "Dec 2017 Jan 2018"
 photographers = "Gianfranco Vacani/Jean Michel"
-translate = ["Julia Jubileu"]
 idKomoot = "182528130"
 images = ["capa-poa-montevideo.jpg"]
 
@@ -19,6 +18,7 @@ images = ["capa-poa-montevideo.jpg"]
 _Conhecendo a Estrada do Inferno. A viagem sem volta._
 <!--more-->
 
+English version soon...
 
 Em novembro de 2017, após a viagem com a Hardbrakers de São Paulo até Rio De Janeiro, definitivamente precisava de um pouco de descanso. Convidei meu amigo Gianfranco a conhecer o extremo sul do Brasil e o litoral Uruguaio.
 Saímos de São Paulo numa carona de carro em direção ao sul do país. Em 24 horas percorrendo 1300 quilômetros, chegamos até a capital gaúcha, Porto Alegre.  

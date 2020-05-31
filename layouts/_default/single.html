@@ -73,7 +73,7 @@
                             <div class="breadcrumbs">
                               <a href='{{ "" | absLangURL }}'>{{ i18n "home" }}</a> »
                               {{ with (index .Site.Menus.main 0) }}
-                                <a href="{{.URL}}">{{.Name}}</a> »
+                                <a href='{{ "/viagens" | absLangURL }}'>{{.Name}}</a> »
                               {{ end }}
                               <a class="current" href="{{ .Permalink }}">{{ .Title }}</a>
                             </div>
