@@ -55,6 +55,7 @@ canonifyURLs = true
   description = "What we see while we ride"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
+  metaimg = "img/pedalmeta.jpg"
   share = true
   showLanguageSwitcher = true
   inDevelopment = true
