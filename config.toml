@@ -51,13 +51,13 @@ canonifyURLs = true
   author = "authors"
 
 [params]
-  author = "PEdAL-R"
+  author = "Pedal-R"
   description = "What we see while we ride"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
   share = true
   showLanguageSwitcher = true
-  inDevelopment = false
+  inDevelopment = true
   mainSections = ["viagens"]
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
