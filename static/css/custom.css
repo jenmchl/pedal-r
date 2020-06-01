@@ -133,6 +133,11 @@ a:hover { text-decoration: none; }
     font-size: 0em;
 }
 
+.contacts-container, .cc-list-container {
+  margin-bottom: 0 !important;
+  padding: 0;
+}
+
 .list-inline, .list-unstyled {
     position: absolute;
     margin-top: 4px;
