@@ -49,7 +49,7 @@ DisqusShortname = ""
   author = "authors"
 
 [params]
-  author = "PEdAL-R"
+  author = "Pedal-R"
   description = "What we see while we ride"
   icon = "img/pedalricone.png"
   logo = "img/pedalr.png"
