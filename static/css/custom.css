@@ -138,6 +138,10 @@ a:hover { text-decoration: none; }
     margin-top: 4px;
 }
 
+.list-inline-item:first-child {
+  margin-right: 0px;
+}
+
 .highlight-cover {
   height: 350px;
   background-size: cover;
@@ -183,7 +187,6 @@ a:hover { text-decoration: none; }
   }
 }
 
-
 .footer {
     position: fixed;
     bottom: 0;
@@ -193,6 +196,21 @@ a:hover { text-decoration: none; }
 .footer ul {
   margin: 2px 0;
   padding: 0;
+}
+
+.cc-list span i {
+  width: 1em;
+}
+
+.partners-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media only screen and (min-width: 767px) {
+  .partners-container #brake-line {
+    display: none;
+  }
 }
 
 .partner-list {

@@ -2,7 +2,7 @@
   <!-- <iframe src="https://open.spotify.com/embed/playlist/0fuoTFnmTga62x2ZMvOMf2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-12 mb-12">
+            <div class="col-lg-5 col-md-5 col-sm-12 mb-12">
                 <ul class="contact-list">
                     {{- if .Site.Params.social.email -}}
                     <li class="list-inline-item">
@@ -27,11 +27,18 @@
                 </ul>
             </div>
 
-            <div class="col-lg-8 col-md-8 col-sm-12 mb-12">
+            <div class="col-lg-2 col-md-2 col-sm-12 mb-12 cc-list">
+                <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" class="icons d-block">
+                    <span class="fa-lg"><i class="list-inline-item fab fa-creative-commons fa-stack fa-inverse pink-link"></i></span>
+                    <span class="fa-lg"><i class="list-inline-item fab fa-creative-commons-by fa-stack fa-inverse pink-link"></i></span>
+                </a>
+            </div>
+
+            <div class="partners-container col-lg-5 col-md-5 col-sm-12 mb-12">
               <ul class="partner-list">
                  <li class="list-inline-item">
                    <span>{{ i18n "support" }}: </span>
-                 </li>
+                 </li> <br id="brake-line">
                   <li class="list-inline-item">
                       <a  href="https://www.instagram.com/alpina_sports/" class="d-block" target="_blank">
                           <img class="partner" src="{{ .Site.BaseURL }}partner/images/alpina.png" alt="Alpina">
