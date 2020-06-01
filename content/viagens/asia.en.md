@@ -13,6 +13,7 @@ photographers = ["Gianfranco Vacani","Roberto Bicicletas"]
 translator = ["Caleb Candido"]
 idKomoot = "182743483"
 images = ["capa-asia.jpg"]
+tags=["trip","bicycle"]
 
 +++
 

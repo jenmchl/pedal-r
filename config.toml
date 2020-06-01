@@ -8,6 +8,8 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
+enableRobotsTXT = true
+canonifyURLs = true
 # theme = "hugo-theme-chunky-poster"
 
 [menu]
