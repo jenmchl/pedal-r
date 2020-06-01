@@ -3,33 +3,30 @@
 
 <link rel="icon" href="{{ .Site.BaseURL }}{{ .Site.Params.icon }}">
 
-<meta property="og:title" content="San Roque 2014 Pollos" />
-<meta property="og:description" content="{{ .Description }}" />
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.metaimg }}" />
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ .Description }}" />
 <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.metaimg }}" />
 
 <title>
-  {{ block "title" . }}
-    {{ with .Params.Title }} {{ . }} | {{ end }}
-    {{ .Site.Title }}
-  {{ end }}
+    {{ with .Params.Title }} {{ . }} | {{ end }} {{ .Site.Title }}
 </title>
+<meta property="og:title" content="{{ with .Params.Title }} {{ . }} | {{ end }} {{ .Site.Title }}" />
+<meta name="twitter:title" content="{{ with .Params.Title }} {{ . }} | {{ end }} {{ .Site.Title }}"/>
+
+{{- if .Description -}}
+  <meta name="description" content="{{ .Description }}">
+  <meta property="og:description" content="{{ .Description }}" />
+  <meta name="twitter:description" content="{{ .Description }}" />
+{{- else if .Site.Params.description -}}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta property="og:description" content="{{ .Site.Params.description }}" />
+  <meta name="twitter:description" content="{{ .Site.Params.description }}" />
+{{- end -}}
 
 {{ if .IsTranslated }}
 	{{ range .AllTranslations }}
 	<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
 	{{ end }}
 {{ end }}
-
-{{- if .Description -}}
-  <meta name="description" content="{{ .Description }}">
-{{- else if .Site.Params.description -}}
-  <meta name="description" content="{{ .Site.Params.description }}">
-{{- end -}}
 
 <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet">
