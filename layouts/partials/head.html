@@ -2,7 +2,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <link rel="icon" href="{{ .Site.BaseURL }}{{ .Site.Params.icon }}">
-
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.metaimg }}" />
 <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.metaimg }}" />
 
@@ -21,6 +20,9 @@
   <meta property="og:description" content="{{ .Site.Params.description }}" />
   <meta name="twitter:description" content="{{ .Site.Params.description }}" />
 {{- end -}}
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
 
 {{ if .IsTranslated }}
 	{{ range .AllTranslations }}
@@ -63,7 +65,15 @@
   <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}">
 {{- end -}}
 
-{{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/google_news.html" . -}}
 {{- template "_internal/schema.html" . -}}
-{{- template "_internal/twitter_cards.html" . -}}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ .Site.GoogleAnalytics }}');
+</script>
