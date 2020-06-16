@@ -105,6 +105,9 @@ canonifyURLs = true
   [[params.contributors]]
     name = "Caleb Candido"
     insta =  "calebcandido"
+  [[params.contributors]]
+    name = "Roger Rossette"
+    insta =  "roger.rossette"
 
   [params.prismJS]
     enable = true
