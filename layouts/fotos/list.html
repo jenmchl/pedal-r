@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="fotos list container py-6">
     <div class="row row-cols-1 row-cols-lg-3">
-        {{ range $index, $page := .Pages }}
+        {{ range $index, $page := .Pages.ByPublishDate }}
             <div class="col mb-3">
 
                 <div class="card h-100">

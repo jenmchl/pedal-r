@@ -114,7 +114,10 @@ canonifyURLs = true
   [[params.contributors]]
     name = "Alberto Machado"
     insta =  "albertomrjr"
-    
+ [[params.contributors]]
+    name = "Rodrigo Batelli"
+    insta =  "rodrigodidio"
+
   [params.prismJS]
     enable = true
     theme = ""

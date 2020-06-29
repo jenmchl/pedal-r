@@ -163,7 +163,7 @@ a:hover { text-decoration: none; }
 
 .highlight-cover h2 {
   color: rgba(255, 255, 255, 0.7);
-  font-size: 6.25rem;
+  font-size: 5.25rem;
   line-height: 350px;
 }
 
@@ -345,6 +345,7 @@ a:hover { text-decoration: none; }
 
 .content .breadcrumbs {
   margin-top: 20px;
+  margin-bottom: 20px;
   font-family: 'orbitron';
 }
 

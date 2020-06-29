@@ -1,8 +1,8 @@
-<!-- +++
++++
 authors = "Jean Michel"
-title = "Desafio Leste Oeste Paraná"
+title = "Travessia Leste Oeste Paraná"
 date = "2019-09-01"
-description = "Travessia do estado do Paraná, 750km em 48 horas"
+description = "Desafio 750km em 48 horas"
 gears = "Fixed Gear"
 people = "3"
 duration = "2"
@@ -13,7 +13,3 @@ photographers = "Guilherme Akio"
 images = ["capa-desafio.jpg"]
 
 +++
-
-_Travessia do estado do Paraná, 750km em 48 horas._
-
-<!--more -->
