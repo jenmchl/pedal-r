@@ -6,11 +6,12 @@ description = "Forjado na mensageria, lapidado na estrada. 750km em 48 horas."
 gears = "Fixed Gear/Single Speed"
 people = "4"
 duration = "2"
-altimetry = "10.000"
+altimetry = "8720"
 distance = "750km"
 year = "set 2019"
 photographers = "Guilherme Akio"
 images = ["lesteoeste/lesteoeste113.jpg"]
+idKomoot = "211372263"
 
 +++
 
@@ -202,3 +203,5 @@ Entrei em Foz sprintando, dando todo o gás que me restava. Cé colocou o som no
 Cé e Akio foram até o final comigo e voltaram para encontrar os meninos. Sentei em um banco na frente de um hotel, falei com familiares e com minha namorada. Chorei mais um pouco. Antes de ir para a casa que havíamos alugado pensei mais um pouco. Havia terminado o desafio em 47 horas. Atravessei o estado, quase 750km em menos de 2 dias.
 
 “Forjado na mensageria, lapidado na estrada.”
+
+*Para mais informações sobre o projeto Leste Oeste PR, acesse o site:* **https://www.lesteoeste.com.br**

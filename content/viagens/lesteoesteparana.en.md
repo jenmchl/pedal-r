@@ -6,11 +6,12 @@ description = "Forjado na mensageria, lapidado na estrada. 750km em 48 horas."
 gears = "Fixed Gear/Single Speed"
 people = "4"
 duration = "2"
-altimetry = "10.000"
+altimetry = "8720"
 distance = "750km"
 year = "set 2019"
 photographers = "Guilherme Akio"
 images = ["lesteoeste/lesteoeste113.jpg"]
+idKomoot = "211372263"
 
 +++
 
@@ -203,4 +204,4 @@ Cé e Akio foram até o final comigo e voltaram para encontrar os meninos. Sente
 
 “Forjado na mensageria, lapidado na estrada.”
 
-(Para mais informações sobre o projeto Leste Oeste PR acesse o site https:www.lesteoestepr.com.br)
+*Para mais informações sobre o projeto Leste Oeste PR, acesse o site:* **https://www.lesteoeste.com.br**
