@@ -144,9 +144,15 @@ Decidi andar mais 30 km. As paisagens eram lindas, campos bem diferentes dos que
 Os trechos variavam entre descidas e subidas, algumas retas. Parei mais a frente e encontrei o Cé. Ali esperei Akio e Jean, conversamos, estávamos todos bem. Esperamos Syen e decidimos seguir juntos até a próxima parada. Como cada um tem seu ritmo, Jean despontou a frente, eu e Akio um pouco mais atrás e Syen pouco mais atrás de nós, devido a sua relação leve.
 Nos encontramos no ponto marcado. Ali fizemos uma longa pausa para nos recuperar. Deu uma bela renovada e decidimos seguir e parar depois de Guaraniaçu para um almoço.
 
+{{< figure src="/viagens/images/lesteoeste/lesteoeste86.jpg" class="half-img  left">}}
+
+---
+
 Saímos os quatro juntos. Syen foi ficando um pouco para trás. Jean embalava nervoso nas descidas e eu e Akio não acompanhávamos esses embalos. Nas subidas chegávamos em Jean, resolvi ser mais agressivo nas descidas e acompanhar Jean.
 Acabamos deixando Akio um pouco para trás. Guaraniaçu era lindo, porém sem retas, somente descidas e subidas. Numa dessas subidas, acabei abrindo distância do Jean. Mal sabia que a partir dali seguiria sozinho o resto da viagem.
 Estava me sentindo muito bem e coloquei um ritmo muito bom. Estava acostumado a pedalar sozinho na estrada, e isso facilitou. Como sempre gostei de subidas, estava me sentindo em casa.
+
+{{< figure src="/viagens/images/lesteoeste/lesteoeste84.jpg" class="half-img single right">}}
 
 Parei no local combinado. Depois de algum tempo vejo o carro de apoio vindo. Mas havia algo errado, notei que havia um passageiro. Quando chegou perto notei que era o Akio. Fiquei muito triste. Pois sabia que era difícil para ele ter que abandonar o desafio. Seu joelho doía muito — e olha que Akio não é de frescura.
 Logo me recompus e superei a perda do amigo na estrada. Agora ele faria companhia ao Cé. Eles disseram que iriam seguir para encontrar o Jean. Ali notei que havia algo estranho, pois o Jean não tinha me passado. Eu havia parado para encher as garrafas de água num posto um pouco atrás do ponto em que estávamos, mas pelo ritmo que eu havia colocado, duvidava que alguém teria me passado. Eles resolveram seguir mesmo assim.
@@ -156,13 +162,19 @@ Eu comentei que tinha visto numa placa que havia um posto logo a frente, e poder
 Ali notei que estava num excelente ritmo e se tudo desse certo eu conseguiria terminar nas 48 horas. Combinei de parar a cada 50 km. Me despedi dos amigos e segui viagem. Minha meta era fazer 50 km em até 2h. Logo que saí, coloquei um ritmo frenético. Me sentia muito bem, nada de cansaço ou sono. Isso que já havia pedalado mais de 500 km. Resolvi apertar o pedal também porque logo iria escurecer, e a média de velocidade iria cair um pouco.
 Nesse trecho passou um tucano bem perto de mim, parecia um bom sinal, não sei por que. Fui seguindo e vi entre as árvores um sol laranja se pondo, e tive muita vontade de ver aquele pôr do sol. Mas ele foi descendo, e achei que não era merecedor de vê-lo.
 
+{{< figure src="/viagens/images/lesteoeste/lesteoeste113.jpg">}}
+
 Depois de umas curvas, cheguei em um campo aberto, e lá estava ele: uma bola de fogo laranja e radiante. Esse tipo de coisa me dá um gás a mais. Me sinto gratificado por poder estar vivendo aquilo, parece que é um presente por estar me dedicando com afinco a algo em que acredito
 Depois dessa cena maravilhosa alcancei um trecho plano, onde a escuridão começou a chegar. Finalizei os 50 km em 1h e 40min. Fiquei contente, porém a hora que fui seguir notei o pneu furado. A margem de tempo que tirei foi pra arrumar o pneu. Menos mal que havia essa margem.
 
+{{< figure src="/viagens/images/lesteoeste/lesteoeste108.jpg" class="half-img  right">}}
+{{< figure src="/viagens/images/lesteoeste/lesteoeste101.jpg" class="half-img  left">}}
+
 Um pouco mais adiante encontrei Cé e Akio. Akio foi dar um olhada na minha bike. Ajeitar corrente, centrar roda, essas coisas. Cé me ajudou com a alimentação. Peguei câmaras novas e também uma laterna de cabeça com o Cé e uma traseira com o Akio. Akio instalou a lanterna no meu capacete. Eu não queira perder o desafio por iluminação. Depois me despedi sob um luar também divino, e segui viagem.
 
-Os próximos km forma de muito foco e muita atenção. Devido ao Jean e ao Syen terem ficado quase 50 km para trás, isso dificultou a logística do carro de apoio me encontrar. Pedalei sozinho na noite, muitas vezes não havia nada ao meu redor. Somente eu e minha bike. Foi uma experiência muito louca. Nunca havia passado por aquilo. Mas em nenhum momento isso me preocupou, pois estava muito bem preparado.
+{{< figure src="/viagens/images/lesteoeste/lesteoeste107.jpg" class="half-img single left">}}
 
+Os próximos km forma de muito foco e muita atenção. Devido ao Jean e ao Syen terem ficado quase 50 km para trás, isso dificultou a logística do carro de apoio me encontrar. Pedalei sozinho na noite, muitas vezes não havia nada ao meu redor. Somente eu e minha bike. Foi uma experiência muito louca. Nunca havia passado por aquilo. Mas em nenhum momento isso me preocupou, pois estava muito bem preparado.
 Acabei pedalando quase 80 km sem encontrar o carro de apoio. Parei e resolvi ligar, tive um pequeno desentendimento com o Cé, pois precisava de apoio. Comi o que tinha e quando fui sair notei o pneu furado. Enquanto trocava, apareceu um cara de carro e veio conversar comigo. Em certo momento notei que ele estava bêbado. Aquilo me chateou. Ele começou a ser inconveniente dizendo que iria me acompanhar.
 
 Nesse momento o apoio chegou. Comi o macarrão que sobrou do almoço, peguei mais comida e bebi Coca e energético. Pedi para os meninos ficarem conversando com o Gerson (o bêbado de Matelândia) enquanto eu saía.
@@ -174,11 +186,18 @@ Pedalei depois dali mais um longo trecho sozinho. Nesse momento bateu um certo s
 Quando estava começando a sentir um desânimo, o carro de apoio chegou. Os meninos me disseram que iriam seguir comigo até o final. Era o que eu precisava. Me alimentei, tomei mais energético e Coca e pela primeira vez sentei um pouco depois de muito tempo. No reinício foi um pouco complicado, assim que peguei no tranco foi que foi.
 Me sentia revigorado e surgiu uma energia do além. Acredito que era porque sabia que estava perto. Chegando no pedágio antes de Foz do Iguaçu, comecei a refletir sobre tudo que passei até chegar ali. As conversas, os treinos, as dúvidas, a mensageria, tudo.
 
+{{< figure src="/viagens/images/lesteoeste/lesteoeste116.jpg">}}
+
 Lembrei de todos que acreditavam em mim e de todos que duvidaram. E senti pela primeira vez que não era por ninguém que eu estava ali. Estava ali por mim, somente por mim, para provar a mim mesmo que sou capaz de um feito como esse.
 Me emocionei muito em saber que depois de muito me dedicar, iria concluir um projeto muito importante para mim. Pois não era só a travessia do estado que estava em jogo, parecia que quem eu era estava em jogo. E naquele momento chorei como uma criança, ali mesmo. Em cima da bicicleta que vem me acompanhando durante os sete últimos anos.
 Me senti orgulhoso de mim, pois analisando ali, vi que não é qualquer um que consegue atravessar quase 750km em menos de 48h com uma bicicleta de aço com somente uma velocidade. Eu me dediquei muito a isso e agora sentia o sentimento de vencer. Vencer a mim mesmo.
 
+{{< figure src="/viagens/images/lesteoeste/lesteoeste121.jpg" class="half-img  right">}}
+{{< figure src="/viagens/images/lesteoeste/lesteoeste120.jpg" class="half-img  left">}}
+
 Entrei em Foz sprintando, dando todo o gás que me restava. Cé colocou o som no talo. Pedi pra ele colocar Man or mouse do Millencolin. Tudo que eu tinha de energia coloquei ali, dei meu máximo em todos os treinos e em toda a viagem. Estava satisfeito em concluir meu objetivo. Realizado com meu feito.
+
+{{< figure src="/viagens/images/lesteoeste/lesteoeste128.jpg">}}
 
 Cé e Akio foram até o final comigo e voltaram para encontrar os meninos. Sentei em um banco na frente de um hotel, falei com familiares e com minha namorada. Chorei mais um pouco. Antes de ir para a casa que havíamos alugado pensei mais um pouco. Havia terminado o desafio em 47 horas. Atravessei o estado, quase 750km em menos de 2 dias.
 
