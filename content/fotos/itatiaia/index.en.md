@@ -1,5 +1,5 @@
 +++
-title = "Itatiaia National Park"
+title = "Itatiaia Park"
 description = "A magical place, that overflows with nature"
 images = ["fotos/itatiaia/itatiaia05.jpg"]
 photographers = ["Bruno Lourenço"]
