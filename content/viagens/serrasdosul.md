@@ -89,7 +89,7 @@ Perfeito, missão comprida com louvor, mas faltava alguns quilômetros para cheg
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-029.jpg" alt="" class="half-img left">}}
 
-Renovados seguimos pela rodovia, e na sequência entramos na SC-110, até chegar em Urubici. Nesse trecho teve bastante sobe e desce, algumas com curvas bem sinuosas, bom asfalto e montanhas ao fundo. Um pouco antes de chegar na cidade, uma placa caseira indicando o ponto de rodovia mais alto do sul do Brasil, com 1570m, e imediatamente despencamos durante 11 km, passando para 918m de altitude. A descida foi bem rápida, com uma curva muito fechada no mirante, quase passei reto. Na manhã seguinte, paramos numa padaria e por acaso conhecemos o autor da placa no alto da rodovia e conversamos sobre os percursos e trekkings da cidade.
+Renovados seguimos pela rodovia, e na sequência entramos na SC-110, até chegar em Urubici. Nesse trecho teve bastante sobe e desce, algumas com curvas bem sinuosas, bom asfalto e montanhas ao fundo. Um pouco antes de chegar na cidade, uma placa caseira indicando o ponto de rodovia mais alto do sul do Brasil, com 1570m, e imediatamente despencamos durante 11 km, passando para 918m de altitude. A descida foi bem rápida, com uma curva muito fechada no mirante, quase passei reto. Na manhã seguinte, paramos numa padaria e por acaso conhecemos o autor da placa no alto da rodovia e conversamos sobre os percursos e trekings da cidade.
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-008.jpg" alt="" class="half-img right">}}
 
