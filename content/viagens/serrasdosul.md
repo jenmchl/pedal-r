@@ -44,7 +44,7 @@ Chegando na cidade já procuramos por abrigo e dessa vez ficamos no corpo de bom
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-158.jpg" >}}
 
-Viajar no frio foi uma novidade para nós. Nunca nos colocamos nessas condições, sempre optamos por épocas ou regiões mais quentes, e assim carregando o mínimo possível, quase uma disputa pra quem carrega menos coisas, mas dessa vez enchemos nossas bolsas com muita roupa. Saindo bem cedo vestindo calça, jaqueta e luvas, no trecho até Tainhas eu só pensava no café que tomaríamos antes de mudar de estrada e torcendo pra não perder os dedos. Nisso chegamos na Rota do Sol, paramos rapidamente no mirante e saímos de 920m de altitude para zero em minutos, passando por curvas largas, caminhões e dois túneis pequenos, mas que precisam de iluminação para atravessar. Amanheceu com muitos balões subindo e a Serra do Faxinal ao fundo, tempo aberto, começamos a subir já na marcha mais leve e assim foi por um bom tempo.
+Viajar no frio foi uma novidade para nós. Nunca nos colocamos nessas condições, sempre optamos por épocas ou regiões mais quentes, e assim carregando o mínimo possível, quase uma disputa pra quem carrega menos coisas, mas dessa vez enchemos nossas bolsas com muita roupa. Saindo bem cedo vestindo calça, jaqueta e luvas, no trecho até Tainhas eu só pensava no café que tomaríamos antes de mudar de estrada e torcendo pra não perder os dedos. Nisso chegamos na Rota do Sol, paramos rapidamente no mirante e saímos de 920m de altitude para zero em minutos, passando por curvas largas, caminhões e dois túneis pequenos, mas que precisam de iluminação para atravessar.
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-133.jpg" >}}
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-150.jpg" alt="" class="half-img right">}}
@@ -85,7 +85,7 @@ Foram mais 2h esperando, até que um pouco antes do horário o pessoal começou 
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-042.jpg" alt="" class="half-img right">}}
 
-Perfeito, missão comprida com louvor, mas faltava alguns quilômetros para chegar na cidade e o frio estava apertando. Corremos muito na descida até encontrar o corpo de bombeiros da cidade, que nos ajudaram a conseguir abrigo num centro de idoso que estava vazio, com cozinha, cobertas, um aquecedor e banho de caneca. Mesmo Bom Jardim da Serra sendo uma das cidades mais frias do país, dormimos muito bem e bastante comparado aos outros dias.
+Perfeito, missão cumprida com louvor, mas faltava alguns quilômetros para chegar na cidade e o frio estava apertando. Corremos muito na descida até encontrar o corpo de bombeiros da cidade, que nos ajudaram a conseguir abrigo num centro de idoso que estava vazio, com cozinha, cobertas, um aquecedor e banho de caneca. Mesmo Bom Jardim da Serra sendo uma das cidades mais frias do país, dormimos muito bem e bastante comparado aos outros dias.
 
 {{< figure src="/viagens/images/serras-do-sul/serras-do-sul-029.jpg" alt="" class="half-img left">}}
 
